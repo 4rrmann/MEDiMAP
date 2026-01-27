@@ -1,28 +1,28 @@
-# 🩺 FHIR Bundle Form Demo
+# **FHIR Bundle Form Demo**
 
 This project is a **Next.js + Fuse.js demo** for generating a valid [FHIR](https://hl7.org/fhir/bundle.html) **Bundle** resource.
 It allows users to fill in **Patient, Encounter, and Condition** details, search diseases using **NAMASTE → ICD-11 mapping**, and instantly preview the generated JSON.
 
 ---
 
-## 🚀 Features
+### **Features**
 
-- 📋 Patient, Encounter, and Condition input forms
-- 🔍 Disease search powered by [Fuse.js](https://fusejs.io/) (fuzzy search)
-- 🔗 Dual coding support (**NAMASTE + ICD-11**)
-- 🖥️ Live JSON preview of generated **FHIR Bundle**
-- 📱 Fully responsive with Tailwind CSS
-- 🎨 Styled with `blue-600` as the primary theme
+- Patient, Encounter, and Condition input forms
+- Disease search powered by [Fuse.js](https://fusejs.io/) (fuzzy search)
+- Dual coding support (**NAMASTE + ICD-11**)
+- Live JSON preview of generated **FHIR Bundle**
+- Fully responsive with Tailwind CSS
+- Styled with `blue-600` as the primary theme
 
 ---
 
-## 📸 Screenshot
+### **Screenshot**
 
 ![Demo Form Screenshot](./public/sc.png)
 
 ---
 
-## 🛠️ Tech Stack
+## **Tech Stack**
 
 - [Next.js](https://nextjs.org/) (App Router, React 18)
 - [Tailwind CSS](https://tailwindcss.com/) (responsive UI)
@@ -31,7 +31,7 @@ It allows users to fill in **Patient, Encounter, and Condition** details, search
 
 ---
 
-## 📂 Project Structure
+## **Project Structure**
 
 ```
 /app
@@ -44,7 +44,7 @@ It allows users to fill in **Patient, Encounter, and Condition** details, search
 
 ---
 
-## ▶️ Getting Started
+## **Getting Started**
 
 Clone this repo:
 
@@ -71,7 +71,7 @@ Then open [https://namaste-prototype.vercel.app/](https://namaste-prototype.verc
 
 ---
 
-## 📄 Example FHIR Bundle Output
+## **Example FHIR Bundle Output**
 
 ```json
 {
@@ -146,7 +146,7 @@ Then open [https://namaste-prototype.vercel.app/](https://namaste-prototype.verc
 
 ---
 
-## 📌 Next Steps
+## **Next Steps**
 
 - Add **Copy JSON** button
 - Connect to a real **FHIR server** for validation
@@ -154,6 +154,6 @@ Then open [https://namaste-prototype.vercel.app/](https://namaste-prototype.verc
 
 ---
 
-## 📜 License
+## **License**
 
 MIT License © 2025 \[FHIR VALIDATOR]
