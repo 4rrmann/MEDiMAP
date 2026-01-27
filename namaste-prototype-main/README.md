@@ -18,7 +18,7 @@ It allows users to fill in **Patient, Encounter, and Condition** details, search
 
 ### **Screenshot**
 
-![Demo Form Screenshot](./public/sc.png)
+![Demo Form Screenshot](./public/ssMM.jpeg)
 
 ---
 
