@@ -1,0 +1,30 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "dynamic-namaste-tm2",
+  "status": "active",
+  "name": "NAMASTE_to_TM2",
+  "description": "Mapping NAMASTE terms to WHO TM2 terms",
+  "group": [
+    {
+      "source": "https://namaste.ayush.gov.in/codesystem",
+      "target": "http://id.who.int/icd/release/11/tm2",
+      "element": [
+        {
+          "code": "123",
+          "display": "javara ",
+          "target": [
+            {
+              "extension": [
+                {
+                  "shortDefinition": "fever",
+                  "longDefinition": "high fever ",
+                  "ayushSystem": "siddha"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

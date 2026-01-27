@@ -1,0 +1,1465 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "dynamic-namaste-tm2-icd11",
+  "status": "active",
+  "name": "NAMASTE_to_TM2_ICD11",
+  "description": "Mapping NAMASTE terms to WHO TM2 and ICD11 terms with definitions",
+  "group": [
+    {
+      "source": "https://namaste.ayush.gov.in/codesystem",
+      "target": "http://id.who.int/icd/release/11",
+      "element": [
+        {
+          "code": "BGB1.1",
+          "display": "Kaṭṭi",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Abcess"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "It is characterized by a swelling with pus collection, redness, pain, warmth, and swelling. It is explained by increased Aḻal. Among the seven Uḍaḷtaṭukkal Cāram and Cennīr gets affected initialy and then Ūṇ, Koḻuppu and sometimes Eṇpu gets affected."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Siddha"
+            }
+          ],
+          "target": [
+            {
+              "code": "SP90",
+              "display": "Abscess",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Abcess"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterized by a swelling with pus collection, redness, pain, warmth, and swelling. It is explained by increased Aḻal. Among the seven Uḍaḷtaṭukkal Cāram and Cennīr gets affected initialy and then Ūṇ, Koḻuppu and sometimes Eṇpu gets affected."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            },
+            {
+              "code": "ICD11-XXXX",
+              "display": "Kaṭṭi",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Abcess"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterized by a swelling with pus collection, redness, pain, warmth, and swelling. It is explained by increased Aḻal. Among the seven Uḍaḷtaṭukkal Cāram and Cennīr gets affected initialy and then Ūṇ, Koḻuppu and sometimes Eṇpu gets affected."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BHB1.1",
+          "display": "Akkuḷ Koppuḷam",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Boils in the axilla"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "It is characterized by small multiple boils present in and around the axillary region. It is explained by increased Aḻal. Among the seven Uḍaḷtaṭukkal Cāram, Cennīr and Ūṇ gets affected."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Siddha"
+            }
+          ],
+          "target": [
+            {
+              "code": "SN4M",
+              "display": "Boil",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Boils in the axilla"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterized by small multiple boils present in and around the axillary region. It is explained by increased Aḻal. Among the seven Uḍaḷtaṭukkal Cāram, Cennīr and Ūṇ gets affected."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            },
+            {
+              "code": "1B75",
+              "display": "Deep bacterial folliculitis or pyogenic abscess of the skin",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Boils in the axilla"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterized by small multiple boils present in and around the axillary region. It is explained by increased Aḻal. Among the seven Uḍaḷtaṭukkal Cāram, Cennīr and Ūṇ gets affected."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BIA1.1",
+          "display": "Kapāla Karuḷkuḍḍam",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Hyperpigmentation of skin in the scalp"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "It is characterized by hyperpigmented skin lesions in the scalp with dryness, scaliness and severe itching. It is explained by increased vali. Among the seven Uḍaḷtaṭukkal Cāram and senner gets affected."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Siddha"
+            }
+          ],
+          "target": [
+            {
+              "code": "SN4G",
+              "display": "Melasma",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Hyperpigmentation of skin in the scalp"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterized by hyperpigmented skin lesions in the scalp with dryness, scaliness and severe itching. It is explained by increased vali. Among the seven Uḍaḷtaṭukkal Cāram and senner gets affected."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            },
+            {
+              "code": "ED60",
+              "display": "Acquired hypermelanosis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Hyperpigmentation of skin in the scalp"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterized by hyperpigmented skin lesions in the scalp with dryness, scaliness and severe itching. It is explained by increased vali. Among the seven Uḍaḷtaṭukkal Cāram and senner gets affected."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BIA1.2",
+          "display": "Kapāla Viḍak Kuḍḍam",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Thickening of scalp skin due to toxins"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "It is characterised by coin shaped hyperkeratinised lesions with hyperpigmented dots, itching of scalp, hair loss and emaciation due to toxins. It is explained by increased vali and Aḻal. Among the Uḍaḷtaṭukkal Cāram, Cennīr, Ūṇ and Koḻuppu gets affected."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Siddha"
+            }
+          ],
+          "target": [
+            {
+              "code": "SN4E",
+              "display": "Lentigo",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Thickening of scalp skin due to toxins"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterised by coin shaped hyperkeratinised lesions with hyperpigmented dots, itching of scalp, hair loss and emaciation due to toxins. It is explained by increased vali and Aḻal. Among the Uḍaḷtaṭukkal Cāram, Cennīr, Ūṇ and Koḻuppu gets affected."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            },
+            {
+              "code": "2F20",
+              "display": "Benign cutaneous melanocytic neoplasms",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Thickening of scalp skin due to toxins"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterised by coin shaped hyperkeratinised lesions with hyperpigmented dots, itching of scalp, hair loss and emaciation due to toxins. It is explained by increased vali and Aḻal. Among the Uḍaḷtaṭukkal Cāram, Cennīr, Ūṇ and Koḻuppu gets affected."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BJA1.1",
+          "display": "Maccam",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Mole"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "It is characterised by circumscribed hyperplasia, pale or brown coloured naevus. It does not cause any problem and useful for the personal identifications. Treatment is not indicated if they are not showing signs of malignant transformation."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Siddha"
+            }
+          ],
+          "target": [
+            {
+              "code": "SN4H",
+              "display": "Mole",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Mole"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterised by circumscribed hyperplasia, pale or brown coloured naevus. It does not cause any problem and useful for the personal identifications. Treatment is not indicated if they are not showing signs of malignant transformation."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            },
+            {
+              "code": "2F20",
+              "display": "Benign cutaneous melanocytic neoplasms",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Mole"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterised by circumscribed hyperplasia, pale or brown coloured naevus. It does not cause any problem and useful for the personal identifications. Treatment is not indicated if they are not showing signs of malignant transformation."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BLA1.1",
+          "display": "Mayir Utiral",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Hair loss"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "It is characterised by loss of hair in scalp or body due to malnutrition, stress, certain medications. It is explained by aggravation of Aḻal. Among the seven Uḍaḷtaṭukkal Cāram, Cennīr, Ūṇ, Koḻuppu, Eṇpu, Mūḷai and sukkilam gets affected."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Siddha"
+            }
+          ],
+          "target": [
+            {
+              "code": "SN71",
+              "display": "Baldness",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Hair loss"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterised by loss of hair in scalp or body due to malnutrition, stress, certain medications. It is explained by aggravation of Aḻal. Among the seven Uḍaḷtaṭukkal Cāram, Cennīr, Ūṇ, Koḻuppu, Eṇpu, Mūḷai and sukkilam gets affected."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            },
+            {
+              "code": "ED70",
+              "display": "Alopecia or hair loss",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Hair loss"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterised by loss of hair in scalp or body due to malnutrition, stress, certain medications. It is explained by aggravation of Aḻal. Among the seven Uḍaḷtaṭukkal Cāram, Cennīr, Ūṇ, Koḻuppu, Eṇpu, Mūḷai and sukkilam gets affected."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BMB1.1",
+          "display": "Mukapparu",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Acne"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "It is characterised by chronic inflammation of pilo sebaceous follicles, comedones, papules, pustules, cysts, nodules and often scars. It occurs primarily in the oily areas of skin. It is explained by aggravation of Aḻal and associated with aiyam."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Siddha"
+            }
+          ],
+          "target": [
+            {
+              "code": "SN4V",
+              "display": "Acne",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Acne"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterised by chronic inflammation of pilo sebaceous follicles, comedones, papules, pustules, cysts, nodules and often scars. It occurs primarily in the oily areas of skin. It is explained by aggravation of Aḻal and associated with aiyam."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            },
+            {
+              "code": "ED80",
+              "display": "Acne",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Acne"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterised by chronic inflammation of pilo sebaceous follicles, comedones, papules, pustules, cysts, nodules and often scars. It occurs primarily in the oily areas of skin. It is explained by aggravation of Aḻal and associated with aiyam."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "J-20",
+          "display": "Ṣala‘",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Baldness"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "Falling of hair from the anterior portion of the scalp."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SN71",
+              "display": "Baldness",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Baldness"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Falling of hair from the anterior portion of the scalp."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "ED70",
+              "display": "Alopecia or hair loss",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Baldness"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Falling of hair from the anterior portion of the scalp."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "J-52",
+          "display": "Sharā",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Urticaria"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "Abrupt eruptions of the skin which are reddish in colour with raised margins cause severe itching of the body. They are caused by hot and acute humours which are produced by the disturbance of metabolism, indigestion, constipation, frequent intake of infected and improper diets."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SN4K",
+              "display": "Urticaria",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Urticaria"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Abrupt eruptions of the skin which are reddish in colour with raised margins cause severe itching of the body. They are caused by hot and acute humours which are produced by the disturbance of metabolism, indigestion, constipation, frequent intake of infected and improper diets."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "EB05",
+              "display": "Urticaria of unspecified type",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Urticaria"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Abrupt eruptions of the skin which are reddish in colour with raised margins cause severe itching of the body. They are caused by hot and acute humours which are produced by the disturbance of metabolism, indigestion, constipation, frequent intake of infected and improper diets."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "J-63",
+          "display": "Mazaḥ",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Intertrigo"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "An infection caused by the continous dampening in between the fingers."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SN48",
+              "display": "Intertrigo",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Intertrigo"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "An infection caused by the continous dampening in between the fingers."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "EK02",
+              "display": "Irritant contact dermatitis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Intertrigo"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "An infection caused by the continous dampening in between the fingers."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "L-1",
+          "display": "Waja‘ al-Ẓahr",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Backache"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "Pain of the back can be superficial or deep. It can be due to cold impaired temperament, predominance of phlegm, physical exertion, incorrect sitting posture, increased sexual activity, weakness of kidneys, premenstrual pain, labour pain, congestion of portal vein and aorta."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SP42",
+              "display": "Lumbar spondylosis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Backache"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Pain of the back can be superficial or deep. It can be due to cold impaired temperament, predominance of phlegm, physical exertion, incorrect sitting posture, increased sexual activity, weakness of kidneys, premenstrual pain, labour pain, congestion of portal vein and aorta."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "FA8Z",
+              "display": "Degenerative condition of spine, unspecified",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Backache"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Pain of the back can be superficial or deep. It can be due to cold impaired temperament, predominance of phlegm, physical exertion, incorrect sitting posture, increased sexual activity, weakness of kidneys, premenstrual pain, labour pain, congestion of portal vein and aorta."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "L-8",
+          "display": "‘Irq al-Nasā",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Sciatica"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "A type of pain which originates from the hip joints and runs along with the sciatic nerve. Intensity of pain increases with the quantity of matter. This pain causes wasting of the muscles of legs due to disuse."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SP41",
+              "display": "Sciatica",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Sciatica"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "A type of pain which originates from the hip joints and runs along with the sciatic nerve. Intensity of pain increases with the quantity of matter. This pain causes wasting of the muscles of legs due to disuse."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "ME84",
+              "display": "Spinal pain",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Sciatica"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "A type of pain which originates from the hip joints and runs along with the sciatic nerve. Intensity of pain increases with the quantity of matter. This pain causes wasting of the muscles of legs due to disuse."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "L-9",
+          "display": "Taḥajjur wa Ṣalāba al-Mafāṣil",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Ankylosing arthritis"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "The ossification of joints and reduced joint spaces leading to locking of the joints."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SP12",
+              "display": "Osteoarthritis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Ankylosing arthritis"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "The ossification of joints and reduced joint spaces leading to locking of the joints."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "FA0Z",
+              "display": "Osteoarthritis, unspecified",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Ankylosing arthritis"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "The ossification of joints and reduced joint spaces leading to locking of the joints."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-8",
+          "display": "‘Irq Madīnī",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Drancunculosis"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "A type of parasitic disease. It starts with an eruption on the skin of the leg or hand or extremities or trunk more commonly on the calf muscles. After the ulceration of eruptions, a red thread like worm comes out from it."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SN47",
+              "display": "Dracunculosis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Drancunculosis"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "A type of parasitic disease. It starts with an eruption on the skin of the leg or hand or extremities or trunk more commonly on the calf muscles. After the ulceration of eruptions, a red thread like worm comes out from it."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "1F64",
+              "display": "Dracunculiasis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Drancunculosis"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "A type of parasitic disease. It starts with an eruption on the skin of the leg or hand or extremities or trunk more commonly on the calf muscles. After the ulceration of eruptions, a red thread like worm comes out from it."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-15.1",
+          "display": "Waram Rīḥī",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "inflammation with gaseous distension"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "In this type of swelling, gas gets accumulated in the spaces of organs. This is lighter in weight and cannot be pressed with pressure."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SP94",
+              "display": "Inflammation",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "inflammation with gaseous distension"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "In this type of swelling, gas gets accumulated in the spaces of organs. This is lighter in weight and cannot be pressed with pressure."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "FA2Z",
+              "display": "Inflammatory arthropathies, unspecified",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "inflammation with gaseous distension"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "In this type of swelling, gas gets accumulated in the spaces of organs. This is lighter in weight and cannot be pressed with pressure."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-15.2",
+          "display": "Waram Ḥārr",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "acute inflammation"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "Acute swelling of the organs characterised by severe clinical features."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SP94",
+              "display": "Inflammation",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "acute inflammation"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Acute swelling of the organs characterised by severe clinical features."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "FA2Z",
+              "display": "Inflammatory arthropathies, unspecified",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "acute inflammation"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Acute swelling of the organs characterised by severe clinical features."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-16",
+          "display": "Sal‘āt",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Tumours"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "A type of movable swelling with varying size from gram seed to watermelon."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SP71",
+              "display": "Benign tumour",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Tumours"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "A type of movable swelling with varying size from gram seed to watermelon."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "2F3Z",
+              "display": "Benign neoplasms except of mesenchymal origin, of unspecified site",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Tumours"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "A type of movable swelling with varying size from gram seed to watermelon."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-18",
+          "display": "Namla/ Sā‘iya",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Herpes"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "These are one or more small red papules which cause severe burning and itching. This burning is similar to ant bite. Known as Namla or Sā‘iya."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SN4T",
+              "display": "Herpes",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Herpes"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "These are one or more small red papules which cause severe burning and itching. This burning is similar to ant bite. Known as Namla or Sā‘iya."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "1F00",
+              "display": "Herpes simplex infections",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Herpes"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "These are one or more small red papules which cause severe burning and itching. This burning is similar to ant bite. Known as Namla or Sā‘iya."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-22",
+          "display": "Nār Fārsī",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Eczema"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "Eruptions of the skin which are encrusted immediately after appearance. There is intense burning in these eruptions."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SN43",
+              "display": "Eczema",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Eczema"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Eruptions of the skin which are encrusted immediately after appearance. There is intense burning in these eruptions."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "EA8Z",
+              "display": "Dermatitis or eczema, unspecified",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Eczema"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Eruptions of the skin which are encrusted immediately after appearance. There is intense burning in these eruptions."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-27",
+          "display": "Dā’ al-Fīl",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Elephantiasis/Filariasis"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "Collection of fluid in the lymphatic channels due to their obstruction as a result of which the legs become swollen. But unlike varicose veins these channels are not visible under the skin. The leg and foot of the patient resemble with that of an elephant."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SM01",
+              "display": "Elephantiasis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Elephantiasis/Filariasis"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Collection of fluid in the lymphatic channels due to their obstruction as a result of which the legs become swollen. But unlike varicose veins these channels are not visible under the skin. The leg and foot of the patient resemble with that of an elephant."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "GA13",
+              "display": "Acquired abnormalities of vulva or perineum",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Elephantiasis/Filariasis"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Collection of fluid in the lymphatic channels due to their obstruction as a result of which the legs become swollen. But unlike varicose veins these channels are not visible under the skin. The leg and foot of the patient resemble with that of an elephant."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-37",
+          "display": "Siman Mufriṭ",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Obesity"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "Obesity is caused by leading a sedentary life and intake of fatty diets."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SP64",
+              "display": "Obesity",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Obesity"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Obesity is caused by leading a sedentary life and intake of fatty diets."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "5B81",
+              "display": "Obesity",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Obesity"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Obesity is caused by leading a sedentary life and intake of fatty diets."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-39",
+          "display": "Fatq",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Hernia"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "Protrusion of an organ or a part of the organ through an abnormal opening from the abdominal cavity to outside. It can be caused by increased abdominal pressure due to chronic cough, pregnancy, chronic constipation, etc."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Unani"
+            }
+          ],
+          "target": [
+            {
+              "code": "SM3G",
+              "display": "Hernia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Hernia"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Protrusion of an organ or a part of the organ through an abnormal opening from the abdominal cavity to outside. It can be caused by increased abdominal pressure due to chronic cough, pregnancy, chronic constipation, etc."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            },
+            {
+              "code": "DD5Z",
+              "display": "Hernias, unspecified",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Hernia"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "Protrusion of an organ or a part of the organ through an abnormal opening from the abdominal cavity to outside. It can be caused by increased abdominal pressure due to chronic cough, pregnancy, chronic constipation, etc."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z83",
+          "display": "Cilēḍḍuma Kaṟa Cūlai",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Pain in the ears due to aggrevation of aiyam"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "It is characterized by pain present in both ears, pain aggravates due to external objects, decreased sense of hearing, wax present in the ear. It is explained by increased vali. Among the seven Uḍaḷtaṭukkal Cāram, Cennīr, Ūṇ, gets affected."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Siddha"
+            }
+          ],
+          "target": [
+            {
+              "code": "SK87",
+              "display": "Otalgia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Pain in the ears due to aggrevation of aiyam"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterized by pain present in both ears, pain aggravates due to external objects, decreased sense of hearing, wax present in the ear. It is explained by increased vali. Among the seven Uḍaḷtaṭukkal Cāram, Cennīr, Ūṇ, gets affected."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            },
+            {
+              "code": "AB70",
+              "display": "Otalgia or effusion of ear",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Pain in the ears due to aggrevation of aiyam"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterized by pain present in both ears, pain aggravates due to external objects, decreased sense of hearing, wax present in the ear. It is explained by increased vali. Among the seven Uḍaḷtaṭukkal Cāram, Cennīr, Ūṇ, gets affected."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z65",
+          "display": "Payittiya Vāta Curōḍitam",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Rheumatoid arthritis, Rheumatic fever (Later stage)"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "It is characterized by swelling of major and minor joints, increased pain, stress, loss of appetite, restricted movements, swollen joints later it affects the heart. It is explained by increased vali and Aḻal."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Siddha"
+            }
+          ],
+          "target": [
+            {
+              "code": "SP10",
+              "display": "Polyarthritis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Rheumatoid arthritis, Rheumatic fever (Later stage)"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterized by swelling of major and minor joints, increased pain, stress, loss of appetite, restricted movements, swollen joints later it affects the heart. It is explained by increased vali and Aḻal."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            },
+            {
+              "code": "FA2Z",
+              "display": "Inflammatory arthropathies, unspecified",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Rheumatoid arthritis, Rheumatic fever (Later stage)"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterized by swelling of major and minor joints, increased pain, stress, loss of appetite, restricted movements, swollen joints later it affects the heart. It is explained by increased vali and Aḻal."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "XDC1.1",
+          "display": "Aiya Nīrccurukku",
+          "extension": [
+            {
+              "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+              "valueString": "Urinary tract Infection caused by increased Aiyam"
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+              "valueString": "It is characterised by cystitis, pyuria with feces-like bad odour & lower abdominal pain. Increased frequency of micturition with haematuria or pyuria, dribbling of urine occurs. It is explained by increased aiyam influences vali affects abanan."
+            },
+            {
+              "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+              "valueString": "Siddha"
+            }
+          ],
+          "target": [
+            {
+              "code": "SM85",
+              "display": "Cystitis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Urinary tract Infection caused by increased Aiyam"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterised by cystitis, pyuria with feces-like bad odour & lower abdominal pain. Increased frequency of micturition with haematuria or pyuria, dribbling of urine occurs. It is explained by increased aiyam influences vali affects abanan."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            },
+            {
+              "code": "GC00",
+              "display": "Cystitis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/shortDefinition",
+                  "valueString": "Urinary tract Infection caused by increased Aiyam"
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/longDefinition",
+                  "valueString": "It is characterised by cystitis, pyuria with feces-like bad odour & lower abdominal pain. Increased frequency of micturition with haematuria or pyuria, dribbling of urine occurs. It is explained by increased aiyam influences vali affects abanan."
+                },
+                {
+                  "url": "http://example.org/fhir/StructureDefinition/ayushSystem",
+                  "valueString": "Siddha"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

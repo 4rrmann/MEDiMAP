@@ -1,0 +1,116 @@
+{
+  "resourceType": "Bundle",
+  "type": "collection",
+  "entry": [
+    {
+      "fullUrl": "urn:uuid:cd596518-4bc2-4244-beaf-be9d0a9fd62c",
+      "resource": {
+        "resourceType": "Patient",
+        "id": "cd596518-4bc2-4244-beaf-be9d0a9fd62c",
+        "text": {
+          "status": "generated",
+          "div": "\u003Cdiv xmlns='http://www.w3.org/1999/xhtml'\u003EPatient: Awaiz Ansari, male, born 2019-07-24\u003C/div\u003E"
+        },
+        "name": [
+          {
+            "use": "official",
+            "given": [
+              "Awaiz"
+            ],
+            "family": "Ansari"
+          }
+        ],
+        "gender": "male",
+        "birthDate": "2019-07-24"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:176f8f24-4eda-45cf-883a-fb1bd446ebab",
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "176f8f24-4eda-45cf-883a-fb1bd446ebab",
+        "text": {
+          "status": "generated",
+          "div": "\u003Cdiv xmlns='http://www.w3.org/1999/xhtml'\u003EEncounter for Awaiz Ansari\u003C/div\u003E"
+        },
+        "status": "completed",
+        "class": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+                "code": "AMB",
+                "display": "ambulatory"
+              }
+            ],
+            "text": "ambulatory"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:cd596518-4bc2-4244-beaf-be9d0a9fd62c"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:193dafc6-2cee-429b-9da1-1bf8389b5405",
+      "resource": {
+        "resourceType": "Condition",
+        "id": "193dafc6-2cee-429b-9da1-1bf8389b5405",
+        "text": {
+          "status": "generated",
+          "div": "\u003Cdiv xmlns='http://www.w3.org/1999/xhtml'\u003ECondition: Shaqīqa Bārida\u003C/div\u003E"
+        },
+        "clinicalStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+              "code": "active"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "system": "https://namaste.ayush.gov.in/codesystem/namaste",
+              "code": "A-2.2",
+              "display": "Shaqīqa Bārida"
+            },
+            {
+              "system": "http://id.who.int/icd/entity",
+              "code": "SK00",
+              "display": "Chronic migraine"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:cd596518-4bc2-4244-beaf-be9d0a9fd62c"
+        },
+        "encounter": {
+          "reference": "urn:uuid:176f8f24-4eda-45cf-883a-fb1bd446ebab"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:522ccf30-4188-497b-a100-79344f3c835b",
+      "resource": {
+        "resourceType": "CodeSystem",
+        "id": "edafab0f-7f11-4d5b-916e-45dae8c6a4c2",
+        "url": "https://namaste.ayush.gov.in/codesystem/namaste",
+        "name": "NamasteCodes",
+        "status": "active",
+        "content": "complete",
+        "caseSensitive": false,
+        "concept": [
+          {
+            "code": "A-2.2",
+            "display": "Shaqīqa Bārida"
+          },
+          {
+            "code": "NAM456",
+            "display": "Back Pain"
+          }
+        ]
+      }
+    }
+  ]
+}

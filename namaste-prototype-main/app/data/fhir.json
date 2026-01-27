@@ -1,0 +1,32 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "map-BVA1.1-SK50",
+  "status": "active",
+  "name": "NAMASTE_to_TM2_Siddha",
+  "description": "Mapping NAMASTE Siddha term to WHO TM2 term",
+  "group": [
+    {
+      "source": "https://namaste.ayush.gov.in/codesystem",
+      "target": "http://id.who.int/icd/release/11/tm2",
+      "element": [
+        {
+          "code": "BVA1.1",
+          "display": "Vaḷicilaippuṇ",
+          "target": [
+            {
+              "code": "SK50",
+              "display": "Neurotrophic ulcer",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Namaste Disorder Term",
+                  "longDefinition": "It is characterized by a type of ulcer caused by abcess with reddishblack coloured pus discharge. It is explained by increased vali. Amoung the seven udal thathukkal C\u0101ram, Cenn\u012br gets affected"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

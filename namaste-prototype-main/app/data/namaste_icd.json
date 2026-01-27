@@ -1,0 +1,933 @@
+[
+  {
+    "namasteCode": "BVA1.1",
+    "namasteTerm": "Val\u0323icilaippu\u1e47",
+    "regionalLanguageTerm": "\u0bb5\u0bb3\u0bbf\u0b9a\u0bbf\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0ba3\u0bcd",
+    "shortDefinition": "Neurotrophic Ulcer due to Increased vali",
+    "longDefinition": "It is characterized by a type of ulcer caused by abcess with reddishblack coloured pus discharge. It is explained by increased vali. Amoung the seven udal thathukkal C\u0101ram, Cenn\u012br gets affected.",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK50",
+    "tm2Disorder": "Neurotrophic ulcer"
+  },
+  {
+    "namasteCode": "RIA1.1",
+    "namasteTerm": "Ma\u1e47\u1e6daikkuttiyal",
+    "regionalLanguageTerm": "\u0bae\u0ba3\u0bcd\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb2\u0bcd",
+    "shortDefinition": "Pricking pain around the head due to increasing Vali",
+    "longDefinition": "It is characterized by pricking pain around the head with severe pain in the occipital region. It is explained by increased vali. Among the seven U\u1e6da\u1e5ft\u0101tukkal\u0323 C\u0101ram, Cenn\u012br and \u016a\u1e49 gets affected.",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Cephalalgia"
+  },
+  {
+    "namasteCode": "Z2",
+    "namasteTerm": "V\u0101takar\u1e63a\u1e47am",
+    "regionalLanguageTerm": "\u0bb5\u0bbe\u0ba4\u0b95\u0bb0\u0bcd\u0bb7\u0ba3\u0bae\u0bcd",
+    "shortDefinition": "Peripheral Neuritis",
+    "longDefinition": "It is characterized by numbness and smoothness of the foot, pain all over the body, restricted movements of the spine. It is explained by increased vali. Among the seven U\u1e6da\u1e5ft\u0101tukkal\u0323 C\u0101ram and Cenn\u012br gets affected.",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK54",
+    "tm2Disorder": "Numbness"
+  },
+  {
+    "namasteCode": "Z7",
+    "namasteTerm": "\u016arustampav\u0101tam",
+    "regionalLanguageTerm": "\u0b8a\u0bb0\u0bc1\u0bb8\u0bcd\u0ba4\u0bae\u0bcd\u0baa\u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Gynoid type of obesity",
+    "longDefinition": "It is characterized by vali accumulated in the affected areas, heaviness present in the upper limbs, pricking pain, heaviness of head. It is explained by increased vali along with aaiyam. Among the seven U\u1e6da\u1e5ft\u0101tukkal\u0323 C\u0101ram, Cenn\u012br and \u016a\u1e49 gets affected.",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK55",
+    "tm2Disorder": "Weakness of thighs due to vata"
+  },
+  {
+    "namasteCode": "Z13",
+    "namasteTerm": "P\u0101\u1e47ikkampa V\u0101tam",
+    "regionalLanguageTerm": "\u0baa\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bae\u0bcd\u0baa \u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Parkinsonism",
+    "longDefinition": "It is characterized by shivering, insomnia, body is full of flatness, glued hands, dryness of skin and mouth. It is explained by increased vali along with A\u1e95al. Among the seven U\u1e6da\u1e5ft\u0101tukkal\u0323 C\u0101ram, Cenn\u012br, \u016a\u1e49, Ko\u1e95uppu and E\u1e49pu gets affected.",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK52",
+    "tm2Disorder": "Parkinsonism"
+  },
+  {
+    "namasteCode": "Z17",
+    "namasteTerm": "V\u0101ta Upakatam",
+    "regionalLanguageTerm": "\u0bb5\u0bbe\u0ba4 \u0b89\u0baa\u0b95\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Peripheral Neuritis due to vit B1deficiency",
+    "longDefinition": "It is characterized by excessive sense of smell, increased appetite, physically active, giddiness. It is explained by increased vali and A\u1e95al. Among the seven U\u1e6da\u1e5ft\u0101tukkal\u0323 C\u0101ram and Cenn\u012br gets affected.",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK51",
+    "tm2Disorder": "Peripheral neuritis due to derangement of Va\u1e37i"
+  },
+  {
+    "namasteCode": "Z21",
+    "namasteTerm": "Pakka V\u0101tam",
+    "regionalLanguageTerm": "\u0baa\u0b95\u0bcd\u0b95 \u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Incomplete hemiplegia",
+    "longDefinition": "It is characterized by inability to move, increased pain in the body, seizure, excessive sweat, dryness. It is explained by increased vali. Among the seven U\u1e6da\u1e5ft\u0101tukkal\u0323 C\u0101ram, Cenn\u012br and \u016a\u1e49 gets affected.",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK22",
+    "tm2Disorder": "Incomplete hemiplegia"
+  },
+  {
+    "namasteCode": "Z22",
+    "namasteTerm": "Pak\u1e63av\u0101tam",
+    "regionalLanguageTerm": "\u0baa\u0b95\u0bcd\u0bb7\u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Complete Hemiplegia",
+    "longDefinition": "It is characterized by inability of movements, unable to swallow, excessive salivation, unable to inflate, unable to do anything properly. It is explained by increased vali. Among the seven U\u1e6da\u1e5ft\u0101tukkal\u0323 C\u0101ram, Cenn\u012br and \u016a\u1e49 gets affected.",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK22",
+    "tm2Disorder": "Hemiplegia"
+  },
+  {
+    "namasteCode": "Z29",
+    "namasteTerm": "Uraka V\u0101tam",
+    "regionalLanguageTerm": "\u0b89\u0bb0\u0b95 \u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Bells palsy",
+    "longDefinition": "It is characterized by the symptoms like loss of wrinkling, unable to frown, tremble present in the head, sometimes body become cool, fatigue, weakness, dullness. It is explained by increased aiyam along with vali. Among the seven U\u1e6da\u1e5ft\u0101tukkal\u0323 C\u0101ram, Ce",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK20",
+    "tm2Disorder": "Facial palsy"
+  },
+  {
+    "namasteCode": "Z35",
+    "namasteTerm": "A\u1e63\u1e6da Tantira V\u0101tam",
+    "regionalLanguageTerm": "\u0b85\u0bb7\u0bcd\u0b9f \u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Tetanus",
+    "longDefinition": "It is characterized by uncomfortable feeling throughout the body, restricted movements, unable to open eyes, tendency of biting, excessive salivation, body looks like corpse. It is explained by increased vali. Among the seven U\u1e6da\u1e5ft\u0101tukkal\u0323 C\u0101ram, Cenn\u012br,",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK51",
+    "tm2Disorder": "Tetanus"
+  },
+  {
+    "namasteCode": "Z36",
+    "namasteTerm": "Vaca\u1e49\u0101 V\u0101tam",
+    "regionalLanguageTerm": "\u0bb5\u0b9a\u0ba9\u0bbe \u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Grandmal epilepsy",
+    "longDefinition": "It is characterized by pain present all over the body, feeling of sadness, having the qualities like respecting elders, stands on the side of bad qualities, sunken eyes, patient falls due to unconscious, but physically fit. It is explained by increased va",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK31",
+    "tm2Disorder": "Grandmal epilepsy"
+  },
+  {
+    "namasteCode": "Z45",
+    "namasteTerm": "Cirakkampa V\u0101tam",
+    "regionalLanguageTerm": "\u0b9a\u0bbf\u0bb0\u0b95\u0bcd\u0b95\u0bae\u0bcd\u0baa \u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Cerebral palsy",
+    "longDefinition": "It is characterized by pain in the neck radiating up to upper limbs, restricted movements, loss of hearing, loss of memories, sleep, and heaviness of head. It is explained by increased vali. Among the seven U\u1e6da\u1e5ft\u0101tukkal\u0323 C\u0101ram, Cenn\u012br, \u016a\u1e49 and Ko\u1e95uppu gets",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK51",
+    "tm2Disorder": "Cervicobrachial pain"
+  },
+  {
+    "namasteCode": "Z50",
+    "namasteTerm": "Patita V\u0101tam",
+    "regionalLanguageTerm": "\u0baa\u0ba4\u0bbf\u0ba4 \u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Vatham aggrevation with stammering and impotence",
+    "longDefinition": "It is characterized by pain present in the node due to excersice speech, pain present in the fore head, unasle to speak properly, loss of appetite. It is explained by increased vali and A\u1e95al. Among the seven U\u1e6da\u1e5ft\u0101tukkal\u0323 all seven gets affected.",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK53",
+    "tm2Disorder": "Stammering"
+  },
+  {
+    "namasteCode": "Z80",
+    "namasteTerm": "Oru Talaiyi\u1e49 Vartam",
+    "regionalLanguageTerm": "\u0b92\u0bb0\u0bc1 \u0ba4\u0bb2\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Cluster headache",
+    "longDefinition": "It is characterized by headache, like splitting the head, blinking eyes due to burning sensation, shivering, loss of appetite, loss of hair. It is explained by increased vali. Among the seven U\u1e6da\u1e5ft\u0101tukkal\u0323 C\u0101ram, Cenn\u012br and \u016a\u1e49, gets affected.",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Cluster headache"
+  },
+  {
+    "namasteCode": "Z$20",
+    "namasteTerm": "Eripittam",
+    "regionalLanguageTerm": "\u0b8e\u0bb0\u0bbf\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Peripheral Neuralgia",
+    "longDefinition": "It is characterized by burning sensation present in the lower thigh, sole of both legs, eyes and palms, dryness in both nostrils and ears, numbness in the back and in both legs and hands, burning sensation is unbearable and so the person will very much",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK51",
+    "tm2Disorder": "Peripheral neuralgia"
+  },
+  {
+    "namasteCode": "Z$30",
+    "namasteTerm": "Na\u1e6dukku Pittam",
+    "regionalLanguageTerm": "\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Aggrevation of pittham causing tremors",
+    "longDefinition": "It is characterized by bitter tasting vomiting, cough, sleeplessness, excessive salivation and dribbling of saliva over the chest. The head, forehead, back of the head and spine will feel hot with shivering. It is explained by increased A\u1e95al and vali. A",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK52",
+    "tm2Disorder": "Aggrevation of A\u1e95al causing tremors"
+  },
+  {
+    "namasteCode": "Z$36",
+    "namasteTerm": "Timir Pittam",
+    "regionalLanguageTerm": "\u0ba4\u0bbf\u0bae\u0bbf\u0bb0\u0bcd \u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "shortDefinition": "Aggrevation of pittham causing neuralgia",
+    "longDefinition": "It is characterized by syncope, pricking pain in the stomach, vomiting occurs every morning, even in sleep, consciousness will be present without any change, body will be tired, the patient will always be adamant in his attitude. There will be p",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK51",
+    "tm2Disorder": "Aggrevation of A\u1e95al causing neuralgia"
+  },
+  {
+    "namasteCode": "Z#9",
+    "namasteTerm": "Cuka Ca\u1e49\u1e49i",
+    "regionalLanguageTerm": "\u0b9a\u0bc1\u0b95 \u0b9a\u0ba9\u0bcd\u0ba9\u0bbf",
+    "shortDefinition": "Three humours affected leading to Seizure.",
+    "longDefinition": "It is characterised by dryness of the tongue with blackish discoloration, fever with burning sensation, generalised seizures, loss of vigour, poor memory, the muscles have spasms that jerks seen in jaw, cheeks, ear, eyebrows, nose and vertex. It is expl",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK51",
+    "tm2Disorder": "Three humours affected leading to seizure"
+  },
+  {
+    "namasteCode": "A-2",
+    "namasteTerm": "Shaq\u012bqa",
+    "regionalLanguageTerm": "\u0634\u0642\u064a\u0642\u06c1",
+    "shortDefinition": "Migraine",
+    "longDefinition": "A type of severe headache which involves one half of head whether it is right or left. It is an episodic type of pain accompanied with nausea and vomiting.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK01",
+    "tm2Disorder": "Migraine"
+  },
+  {
+    "namasteCode": "A-2.1",
+    "namasteTerm": "Shaq\u012bqa H\u0323\u0101rra",
+    "regionalLanguageTerm": "\u0634\u0642\u064a\u0642\u06c1 \u062d\u0627\u0631\u06c1",
+    "shortDefinition": "Acute migraine",
+    "longDefinition": "A type of migraine which is caused by predominance of <em>S\u0323afr\u0101\u2019</em> (yellow bile) and <em>Dam</em> (blood/sanguine) in the body.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Acute migraine"
+  },
+  {
+    "namasteCode": "A-2.2",
+    "namasteTerm": "Shaq\u012bqa B\u0101rida",
+    "regionalLanguageTerm": "\u0634\u0642\u064a\u0642\u06c1 \u0628\u0627\u0631\u062f\u06c1",
+    "shortDefinition": "Chronic migraine",
+    "longDefinition": "A type of migraine which is caused by predominance of <em>Balgham</em> (phlegm) and <em>Sawd\u0101\u2019</em> (black bile) in the body.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Chronic migraine"
+  },
+  {
+    "namasteCode": "A-25",
+    "namasteTerm": "Sadr-o-Duw\u0101r",
+    "regionalLanguageTerm": "\u0633\u062f\u0631 \u0648 \u062f\u0648\u0627\u0631",
+    "shortDefinition": "Vertigo and giddiness",
+    "longDefinition": "Sadr is a disease of brain in which the person experiences darkness on standing. This condition usually accompanies with heaviness of head, tinnitus and confusion. <em>Duw\u0101r</em> is similar to <em>Sadr</em> but in this condition the patients feel giddiness also.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK10",
+    "tm2Disorder": "Vertigo and giddiness"
+  },
+  {
+    "namasteCode": "A-25.1",
+    "namasteTerm": "Sadr-o-Duw\u0101r Dim\u0101gh\u012b Damaw\u012b",
+    "regionalLanguageTerm": "\u0633\u062f\u0631 \u0648 \u062f\u0648\u0627\u0631 \u062f\u0645\u0627\u063a\u064a \u062f\u0645\u0648\u064a",
+    "shortDefinition": "Sanguineous vertigo and giddiness",
+    "longDefinition": "A type of vertigo and giddiness caused by the accumulation of <em>Dam</em> (blood /sanguine) in the brain itself. It is characterized by frequent episodes of giddiness, flushing of face, redness of eyes and elevated temperature of head. Initially, it is accompanied with lacrimation.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK10",
+    "tm2Disorder": "Vertigo and giddiness due to Dam"
+  },
+  {
+    "namasteCode": "A-25.2",
+    "namasteTerm": "Sadr-o-Duw\u0101r Dim\u0101gh\u012b Balgham\u012b",
+    "regionalLanguageTerm": "\u0633\u062f\u0631 \u0648 \u062f\u0648\u0627\u0631 \u062f\u0645\u0627\u063a\u064a \u0628\u0644\u063a\u0645\u064a",
+    "shortDefinition": "Phlegmatic vertigo and giddiness",
+    "longDefinition": "Mostly it occurs due to the accumulation of <em>Balgham</em> (phlegm) in the brain. It is characterized by vertigo and giddiness along with heaviness of head, increased salivation, decreased thirst, altered sensorium, increased sleep and pulsus mollis.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK10",
+    "tm2Disorder": "Vertigo and giddiness due to Balgham"
+  },
+  {
+    "namasteCode": "A-25.3",
+    "namasteTerm": "Sadr-o-Duw\u0101r Dim\u0101gh\u012b \u1e62afr\u0101w\u012b",
+    "regionalLanguageTerm": "\u0633\u062f\u0631 \u0648 \u062f\u0648\u0627\u0631 \u062f\u0645\u0627\u063a\u064a \u0635\u0641\u0631\u0627\u0648\u064a",
+    "shortDefinition": "Bilious vertigo and giddiness",
+    "longDefinition": "A type of vertigo and giddiness caused by the accumulation of <em>\u1e62afr\u0101\u2019</em> (yellow bile) in the brain. It is characterized by vertigo and giddiness along with pale face, bitter taste, pulsus velox and thirst.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK10",
+    "tm2Disorder": "Vertigo and giddiness due to \u1e62afr\u0101\u2019"
+  },
+  {
+    "namasteCode": "A-25.4",
+    "namasteTerm": "Sadr-o-Duw\u0101r Dim\u0101gh\u012b Sawd\u0101w\u012b",
+    "regionalLanguageTerm": "\u0633\u062f\u0631 \u0648 \u062f\u0648\u0627\u0631 \u062f\u0645\u0627\u063a\u064a \u0633\u0648\u062f\u0627\u0648\u064a",
+    "shortDefinition": "Melancholic vertigo and giddiness",
+    "longDefinition": "A type of vertigo and giddiness caused by the accumulation of <em>Sawd\u0101\u2019</em> (black bile) in the brain. It is characterized by excessive thoughts and sleeplessness, pulsus debilis and pulses durus.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK10",
+    "tm2Disorder": "Vertigo and giddiness due to Sawd\u0101\u2019"
+  },
+  {
+    "namasteCode": "A-25.5",
+    "namasteTerm": "Sadr-o-Duw\u0101r Shirk\u012b",
+    "regionalLanguageTerm": "\u0633\u062f\u0631 \u0648 \u062f\u0648\u0627\u0631 \u0634\u0631\u0643\u064a",
+    "shortDefinition": "Secondary vertigo and giddiness",
+    "longDefinition": "The state of Sadr and <em>Duw\u0101r</em> which comes as a complication of some other systemic diseases.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK10",
+    "tm2Disorder": "Secondary vertigo and giddiness"
+  },
+  {
+    "namasteCode": "A-28",
+    "namasteTerm": "S\u0323ar\u2018",
+    "regionalLanguageTerm": "\u0635\u0631\u0639",
+    "shortDefinition": "Epilepsy",
+    "longDefinition": "Its literal meaning is to fall down. It is an episodic disease in which sensory and motor functions of the organs are stopped. The patient falls down and experiences convulsions and frothing from the mouth.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK31",
+    "tm2Disorder": "Epilepsy"
+  },
+  {
+    "namasteCode": "A-28.1",
+    "namasteTerm": "\u1e62ar\u2018 Dim\u0101gh\u012b Sawd\u0101w\u012b",
+    "regionalLanguageTerm": "\u0635\u0631\u0639 \u062f\u0645\u0627\u063a\u064a \u0633\u0648\u062f\u0627\u0648\u064a",
+    "shortDefinition": "Melancholic epilepsy",
+    "longDefinition": "A type of <em>\u1e62ar\u2018</em> caused by the obstruction of ventricles of brain by the thick black bile which causes hindrance in the flow of motor faculties and psychic pneuma with in the related nerves.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK31",
+    "tm2Disorder": "Epilepsy due to derangement of Sawd\u0101\u2019"
+  },
+  {
+    "namasteCode": "A-29",
+    "namasteTerm": "Sakta",
+    "regionalLanguageTerm": "\u0633\u0643\u062a\u06c1",
+    "shortDefinition": "Apoplexy",
+    "longDefinition": "A condition that occurs when there is a complete obstruction of the ventricles of the brain and channels of oxygen. In this condition the motor and sensory functions of the body stop but the respiratory and circulatory functions remain active. Patient remains stationary.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK5Y",
+    "tm2Disorder": "Stroke"
+  },
+  {
+    "namasteCode": "A-29.2",
+    "namasteTerm": "Sakta Balghamiyya",
+    "regionalLanguageTerm": "\u0633\u0643\u062a\u06c1 \u0628\u0644\u063a\u0645\u064a\u06c1",
+    "shortDefinition": "Phlegmatic apoplexy",
+    "longDefinition": "A type of apoplexy that occurs due to <em>Sudda Balgham\u012b</em> (phlegmatic obstruction) in the brain. In this condition patient develops palor, flaccid muscles and there is discharge from nose and mouth.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK5Y",
+    "tm2Disorder": "Stroke due to Balgham"
+  },
+  {
+    "namasteCode": "A-29.3",
+    "namasteTerm": "Sakta Sawd\u0101wiyya",
+    "regionalLanguageTerm": "\u0633\u0643\u062a\u06c1 \u0633\u0648\u062f\u0627\u0648\u064a\u06c1",
+    "shortDefinition": "Melancholic apoplexy",
+    "longDefinition": "A type of apoplexy that occurs due to accumulation of <em>Sawd\u0101\u2019</em> (black bile) in the brain.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK5Y",
+    "tm2Disorder": "Stroke due to Sawd\u0101"
+  },
+  {
+    "namasteCode": "A-32",
+    "namasteTerm": "F\u0101lij",
+    "regionalLanguageTerm": "\u0641\u0627\u0644\u062c",
+    "shortDefinition": "Hemiplegia",
+    "longDefinition": "Paralytic conditions where muscles of half body (longitudinally) on either side stop functioning except the head.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK22",
+    "tm2Disorder": "Hemiplegia"
+  },
+  {
+    "namasteCode": "A-33",
+    "namasteTerm": "Tashannuj",
+    "regionalLanguageTerm": "\u062a\u0634\u0646\u062c",
+    "shortDefinition": "Cramp/Convulsion/Spasm",
+    "longDefinition": "A condition in which muscles contract towards their origin. It is a state of muscular spasm.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK30",
+    "tm2Disorder": "Seizure"
+  },
+  {
+    "namasteCode": "A-34",
+    "namasteTerm": "D\u0323u\u2018f al-Dim\u0101gh",
+    "regionalLanguageTerm": "\u0636\u0639\u0641 \u0627\u0644\u062f\u0645\u0627\u063a",
+    "shortDefinition": "Cerebrasthenia",
+    "longDefinition": "It is the weakness of brain. In this condition the blood supply to whole brain or a part of brain is interrupted and that part or the whole brain does not get sufficient supply of blood leading to the disturbance in different faculties of brain. This condition can also be due to impaired temperament of brain, congenital abnormality of brain, increased <em>Istifr\u0101gh</em> (evacuation) of the body by any method.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK5Y",
+    "tm2Disorder": "Cerebrasthenia"
+  },
+  {
+    "namasteCode": "A-36",
+    "namasteTerm": "S\u0323ud\u0101\u2018",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639",
+    "shortDefinition": "Cephalagia/Headache",
+    "longDefinition": "Pain felt in the head which is divided into many types according to cause.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Cephalalgia"
+  },
+  {
+    "namasteCode": "A-36.1",
+    "namasteTerm": "S\u0323ud\u0101\u2018 H\u0323\u0101rr",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u062d\u0627\u0631",
+    "shortDefinition": "Headache due to excessive heat",
+    "longDefinition": "Headache on exposure to hot environment. This headache does not involve <em>M\u0101dda</em> (organic matter) or any pathological change inside the body.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Headache due to excessive hotness"
+  },
+  {
+    "namasteCode": "A-36.2",
+    "namasteTerm": "S\u0323ud\u0101\u2018 B\u0101rid",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0628\u0627\u0631\u062f",
+    "shortDefinition": "Headache due to excessive cold",
+    "longDefinition": "Headache on exposure to cold environment without involvement of <em>M\u0101dda</em> (organic matter).",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Headache due to excessive coldness"
+  },
+  {
+    "namasteCode": "A-36.3",
+    "namasteTerm": "S\u0323ud\u0101\u2018 Damaw\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u062f\u0645\u0648\u064a",
+    "shortDefinition": "Congestive headache",
+    "longDefinition": "Headache due to predominance of <em>Dam</em> (blood/sanguine).",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Headache due to derangement of Dam"
+  },
+  {
+    "namasteCode": "A-36.4",
+    "namasteTerm": "S\u0323ud\u0101\u2018 Balgham\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0628\u0644\u063a\u0645\u064a",
+    "shortDefinition": "Phlegmatic headache",
+    "longDefinition": "Headache due to predominance of <em>Balgham</em> (phlegm).",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Headache due to derangement of Balgham"
+  },
+  {
+    "namasteCode": "A-36.5",
+    "namasteTerm": "S\u0323ud\u0101\u2018 S\u0323afr\u0101w\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0635\u0641\u0631\u0627\u0648\u064a",
+    "shortDefinition": "Bilious headache",
+    "longDefinition": "Headache due to predominance of <em>S\u0323afr\u0101\u2019</em> (yellow bile).",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Headache due to derangement of \u1e62afr\u0101\u2019"
+  },
+  {
+    "namasteCode": "A-36.6",
+    "namasteTerm": "S\u0323ud\u0101\u2018 Sawd\u0101w\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0633\u0648\u062f\u0627\u0648\u064a",
+    "shortDefinition": "Melancholic headache",
+    "longDefinition": "Headache due to predominance of <em>Sawd\u0101\u2019</em> (black bile).",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Headache due to derangement of Sawd\u0101\u2019"
+  },
+  {
+    "namasteCode": "A-36.7",
+    "namasteTerm": "S\u0323ud\u0101\u2018 R\u012bh\u0323\u012b D\u0101khil\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0631\u064a\u062d\u064a \u062f\u0627\u062e\u0644\u064a",
+    "shortDefinition": "headache due to internal gases",
+    "longDefinition": "Headache due to the accumulation of gases in the brain that are produced in the body.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Headache due to internal R\u012b\u1e25"
+  },
+  {
+    "namasteCode": "A-36.8",
+    "namasteTerm": "S\u0323ud\u0101\u2018 R\u012bh\u0323\u012b Kh\u0101rij\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0631\u064a\u062d\u064a \u062e\u0627\u0631\u062c\u064a",
+    "shortDefinition": "headache due to external gases",
+    "longDefinition": "Headache due to accumulation of gases in the brain from outside the body.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Headache due to external R\u012b\u1e25"
+  },
+  {
+    "namasteCode": "A-36.9",
+    "namasteTerm": "S\u0323ud\u0101\u2018 Bukh\u0101r\u012b D\u0101khil\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0628\u062e\u0627\u0631\u064a \u062f\u0627\u062e\u0644\u064a",
+    "shortDefinition": "headache due to internal vapours",
+    "longDefinition": "Headache due to excessive production of gases inside the brain.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Headache due to internal Bukh\u0101r\u0101t"
+  },
+  {
+    "namasteCode": "A-36.10",
+    "namasteTerm": "S\u0323ud\u0101\u2018 Bukh\u0101r\u012b Kh\u0101rij\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0628\u062e\u0627\u0631\u064a \u062e\u0627\u0631\u062c\u064a",
+    "shortDefinition": "headache due to external vapours",
+    "longDefinition": "Headache due to excessive production of gases outside the brain.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Headache due to external Bukh\u0101r\u0101t"
+  },
+  {
+    "namasteCode": "A-36.12",
+    "namasteTerm": "S\u0323ud\u0101\u2018 Waram\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0648\u0631\u0645\u064a",
+    "shortDefinition": "Inflammatory headache",
+    "longDefinition": "Headache due to <em>Waram</em> (inflammation) of brain.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Inflammatory headache"
+  },
+  {
+    "namasteCode": "A-36.13",
+    "namasteTerm": "S\u0323ud\u0101\u2018 D\u0323arab\u0101n\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0636\u0631\u0628\u0627\u0646\u064a",
+    "shortDefinition": "Throbbing headache",
+    "longDefinition": "Headache due to increased pulsation of arteries in the brain.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Throbbing headache"
+  },
+  {
+    "namasteCode": "A-36.14",
+    "namasteTerm": "S\u0323ud\u0101\u2018 D\u0323u\u2018f Dim\u0101gh\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0636\u0639\u0641 \u062f\u0645\u0627\u063a\u064a",
+    "shortDefinition": "Headache due to weakness of brain",
+    "longDefinition": "Headache due to weakness of brain.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Headache due to weakness of brain"
+  },
+  {
+    "namasteCode": "A-36.19",
+    "namasteTerm": "S\u0323ud\u0101\u2018 Shamm\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0634\u0645\u064a",
+    "shortDefinition": "headache due to smell",
+    "longDefinition": "Headache due to inhalation of pungent odour or strong smells.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Headache due to smell"
+  },
+  {
+    "namasteCode": "A-36.25",
+    "namasteTerm": "S\u0323ud\u0101\u2018 Shirk\u012b Mi\u2018d\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0634\u0631\u0643\u064a \u0645\u0639\u062f\u064a",
+    "shortDefinition": "Referred headache due to the involvement of the stomach",
+    "longDefinition": "Headache due to stomach diseases.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Referred headache due to the involvement of the stomach"
+  },
+  {
+    "namasteCode": "A-36.26",
+    "namasteTerm": "S\u0323ud\u0101\u2018 Shirk\u012b Kabid\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0634\u0631\u0643\u064a \u0643\u0628\u062f\u064a",
+    "shortDefinition": "Referred headache due to the involvement of the liver",
+    "longDefinition": "Headache due to liver diseases.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Referred headache due to the involvement of the liver"
+  },
+  {
+    "namasteCode": "A-36.27",
+    "namasteTerm": "S\u0323ud\u0101\u2018 Mar\u0101q\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0645\u0631\u0627\u0642\u064a",
+    "shortDefinition": "Referred Headache due to the involvement of the peritoneum",
+    "longDefinition": "Headache due to involvement of peritoneum.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Referred headache due to the involvement of the peritoneum"
+  },
+  {
+    "namasteCode": "A-36.28",
+    "namasteTerm": "S\u0323ud\u0101\u2018 Nazl\u012b",
+    "regionalLanguageTerm": "\u0635\u062f\u0627\u0639 \u0646\u0632\u0644\u064a",
+    "shortDefinition": "Catarrhal headache",
+    "longDefinition": "Headache due to catarrh.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Catarrhal headache"
+  },
+  {
+    "namasteCode": "A-37",
+    "namasteTerm": "Tamaddud",
+    "regionalLanguageTerm": "\u062a\u0645\u062f\u062f",
+    "shortDefinition": "straightening of organ",
+    "longDefinition": "A type of tension occurring at both ends of the muscles causing maximum stretching of the muscles.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK5Y",
+    "tm2Disorder": "Muscle distension"
+  },
+  {
+    "namasteCode": "A-39",
+    "namasteTerm": "Laqwa",
+    "regionalLanguageTerm": "\u0644\u0642\u0648\u0647",
+    "shortDefinition": "Facial palsy",
+    "longDefinition": "A disease of the facial muscles in which face is deviated to either side. In this condition patient cannot close his eyes on the affected side and lips, completely. Saliva continues to dribble from the angles of the mouth. When the patient blows, air comes out from one side of the mouth. When this disease is bilateral there is no deviation of face but lips and eyes do not close completely.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK20",
+    "tm2Disorder": "Facial palsy"
+  },
+  {
+    "namasteCode": "A-39.1",
+    "namasteTerm": "Laqwa Istirkh\u0101\u2019\u012b",
+    "regionalLanguageTerm": "\u0644\u0642\u0648\u0647 \u0627\u0633\u062a\u0631\u062e\u0627\u0626\u064a",
+    "shortDefinition": "deviation of one side of face due to flaccidity of muscles",
+    "longDefinition": "Deviation of face due to flaccidity of the facial muscles.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK20",
+    "tm2Disorder": "Deviation of one side of face due to flaccidity of muscles"
+  },
+  {
+    "namasteCode": "A-39.2",
+    "namasteTerm": "Laqwa Tashannuj\u012b",
+    "regionalLanguageTerm": "\u0644\u0642\u0648\u0647 \u062a\u0634\u0646\u062c\u064a",
+    "shortDefinition": "deviation of one side of face due to spasm of muscles",
+    "longDefinition": "Deviation of face due to spasm of the facial muscles.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK20",
+    "tm2Disorder": "Facial palsy disorder"
+  },
+  {
+    "namasteCode": "A-40",
+    "namasteTerm": "Ra\u2018sha",
+    "regionalLanguageTerm": "\u0631\u0639\u0634\u06c1",
+    "shortDefinition": "Tremor",
+    "longDefinition": "Shivering of the organs of the body due to the weakness or defect in motor system. It is a mixture of voluntary and involuntary movements of the body.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK52",
+    "tm2Disorder": "Tremor"
+  },
+  {
+    "namasteCode": "A-40.1",
+    "namasteTerm": "Ra\u2018sha B\u0101rid",
+    "regionalLanguageTerm": "\u0631\u0639\u0634\u06c1 \u0628\u0627\u0631\u062f",
+    "shortDefinition": "tremor due to cold morbid temperament",
+    "longDefinition": "A type of <em>Ra\u2018sha</em> caused by simple cold morbid temperament of the organ.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK52",
+    "tm2Disorder": "Tremor due to cold impaired temperament"
+  },
+  {
+    "namasteCode": "A-42",
+    "namasteTerm": "Khadar",
+    "regionalLanguageTerm": "\u062e\u062f\u0631",
+    "shortDefinition": "Numbness",
+    "longDefinition": "The complete/partial loss of sensation of any organ of the body. According to causes it can be of four types i. e. <em>Balgham\u012b</em> (phlegmatic), <em>Damaw\u012b</em> (sanguineous), <em>Sawd\u0101w\u012b</em> (melancholic) and <em>S\u0323afr\u0101w\u012b</em> (bilious).",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK54",
+    "tm2Disorder": "Numbness"
+  },
+  {
+    "namasteCode": "C-110",
+    "namasteTerm": "W\u0101bila/Waja\u2018 al-\u2018Unuq \u2018As\u0323ab\u012b",
+    "regionalLanguageTerm": "\u0648\u0627\u0628\u0644\u06c1/ \u0648\u062c\u0639 \u0627\u0644\u0639\u0646\u0642 \u0639\u0635\u0628\u064a",
+    "shortDefinition": "Cervicobrachial neuralgia",
+    "longDefinition": "A severe type of pain of throat which is produced by spasm of nerves and vessels of the neck. If it is due to the spasm of arteries then it is fatal. If the cause is the spasm of nerves then it is not fatal.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK51",
+    "tm2Disorder": "Cervicobrachial pain"
+  },
+  {
+    "namasteCode": "A-1.1",
+    "namasteTerm": "Bayd\u0323a-o-Kh\u016bdha Damaw\u012b",
+    "regionalLanguageTerm": "\u0628\u064a\u0636\u06c1 \u0648 \u062e\u0648\u0630\u06c1 \u062f\u0645\u0648\u06cc",
+    "shortDefinition": "Sanguineous helmet headache",
+    "longDefinition": "A condition of severe chronic continuous headache caused by the predominance of sanguine humour. This condition is characterised by redness of face and other features of predominance of sanguine along with specific clinical features of helmet headache",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK00",
+    "tm2Disorder": "Circumferential headache"
+  },
+  {
+    "namasteCode": "A-32.7",
+    "namasteTerm": "F\u0101lij Asfal/F\u0101lij At\u0323r\u0101f\u012b",
+    "regionalLanguageTerm": "\u0641\u0627\u0644\u062c \u0627\u0633\u0641\u0644/\u0641\u0627\u0644\u062c \u0627\u0637\u0631\u0627\u0641\u06cc",
+    "shortDefinition": "paralysis of extrimities/lower body",
+    "longDefinition": "A condition of paralysis of lower part of body due to constitution derangement in spinal cord resulting from any injury or its inflammation. It can also be due to congestion of Dam. It is characterised by gradual weakness of muscles of lower limbs, backache, staggering gait, occasional fall followed by the stoppage of motor functions of lower limb.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK21",
+    "tm2Disorder": "Paraplegia"
+  },
+  {
+    "namasteCode": "C-131",
+    "namasteTerm": "Luknat",
+    "regionalLanguageTerm": "\u0644\u06a9\u0646\u062a",
+    "shortDefinition": "Stammering disorder",
+    "longDefinition": "A speech disorder involving frequent problems with the normal fluency and flow of speech.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SK53",
+    "tm2Disorder": "Stammering"
+  },
+
+  {
+    "namasteCode": "BGB1.1",
+    "namasteTerm": "Kaṭṭi",
+    "regionalLanguageTerm": "கட்டி",
+    "shortDefinition": "Abcess",
+    "longDefinition": "It is characterized by a swelling with pus collection, redness, pain, warmth, and swelling. It is explained by increased Aṣal...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SP90",
+    "tm2Disorder": "Abscess"
+  },
+  {
+    "namasteCode": "BGB1.3",
+    "namasteTerm": "Kallīral Kaṭṭi",
+    "regionalLanguageTerm": "கல்லீரல் கட்டி",
+    "shortDefinition": "abcess in the Liver",
+    "longDefinition": "It is characterized by a liver abcess with breathlessness, pain in the thoracic region...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SM40",
+    "tm2Disorder": "Liver abscess"
+  },
+  {
+    "namasteCode": "BGB1.8",
+    "namasteTerm": "Toḍai Iṭukku Kaṭṭi",
+    "regionalLanguageTerm": "தொடை இடுக்கு கட்டி",
+    "shortDefinition": "abcess in the Inguinal Region",
+    "longDefinition": "It is characterized by a abcess in the inguinal region with pain, fever...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SM56",
+    "tm2Disorder": "Anal abscess"
+  },
+  {
+    "namasteCode": "BGB1.10",
+    "namasteTerm": "Eruvāykaṭṭi",
+    "regionalLanguageTerm": "எருவாய்க்கட்டி",
+    "shortDefinition": "abcess in and around the anus",
+    "longDefinition": "It is characterized by a abcess in and around the anus with painful defication...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SM56",
+    "tm2Disorder": "Anal abscess"
+  },
+  {
+    "namasteCode": "BHB1.1",
+    "namasteTerm": "Akkuḷ Koppuḷam",
+    "regionalLanguageTerm": "அக்குள் கொப்புளம்",
+    "shortDefinition": "Boils in the axilla",
+    "longDefinition": "It is characterized by small multiple boils present in and around the axillary region...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SN4M",
+    "tm2Disorder": "Boil"
+  },
+  {
+    "namasteCode": "BIA1.1",
+    "namasteTerm": "Kapāla Karuṅkuṭṭam",
+    "regionalLanguageTerm": "கபால கருங்குட்டம்",
+    "shortDefinition": "Hyperpigmentation of skin in the scalp",
+    "longDefinition": "It is characterized by hyperpigmented skin lesions in the scalp with dryness, scaliness...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SN4G",
+    "tm2Disorder": "Melasma"
+  },
+  {
+    "namasteCode": "BIA1.2",
+    "namasteTerm": "Kapāla Viṭak Kuṭṭam",
+    "regionalLanguageTerm": "கபால விடக் குட்டம்",
+    "shortDefinition": "Thickening of scalp skin due to toxins",
+    "longDefinition": "It is characterised by coin shaped hyperkeratinised lesions with hyperpigmented dots...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SN4E",
+    "tm2Disorder": "Lentigo"
+  },
+  {
+    "namasteCode": "BJA1.1",
+    "namasteTerm": "Maccam",
+    "regionalLanguageTerm": "மச்சம்",
+    "shortDefinition": "Mole",
+    "longDefinition": "It is characterised by circumscribed hyperplasia, pale or brown coloured naevus...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SN4H",
+    "tm2Disorder": "Mole"
+  },
+  {
+    "namasteCode": "BLA1.1",
+    "namasteTerm": "Mayir Utiral",
+    "regionalLanguageTerm": "மயிர் உதிரல்",
+    "shortDefinition": "Hair loss",
+    "longDefinition": "It is characterised by loss of hair in scalp or body due to malnutrition...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SN71",
+    "tm2Disorder": "Baldness"
+  },
+  {
+    "namasteCode": "BMB1.1",
+    "namasteTerm": "Mukapparu",
+    "regionalLanguageTerm": "முகப்பரு",
+    "shortDefinition": "Acne",
+    "longDefinition": "It is characterised by chronic inflammation of pilo sebaceous follicles...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SN4V",
+    "tm2Disorder": "Acne"
+  },
+  {
+    "namasteCode": "J-20",
+    "namasteTerm": "Ṣala‘",
+    "regionalLanguageTerm": "صلع",
+    "shortDefinition": "Baldness",
+    "longDefinition": "Falling of hair from the anterior portion of the scalp.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SN71",
+    "tm2Disorder": "Baldness"
+  },
+  {
+    "namasteCode": "J-52",
+    "namasteTerm": "Sharā",
+    "regionalLanguageTerm": "شر یٰ",
+    "shortDefinition": "Urticaria",
+    "longDefinition": "Abrupt eruptions of the skin which are reddish in colour with raised margins...",
+    "ayushSystem": "Unani",
+    "tm2Code": "SN4K",
+    "tm2Disorder": "Urticaria"
+  },
+  {
+    "namasteCode": "J-63",
+    "namasteTerm": "Mazaḥ",
+    "regionalLanguageTerm": "مزح",
+    "shortDefinition": "Intertrigo",
+    "longDefinition": "An infection caused by the continous dampening in between the fingers.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SN48",
+    "tm2Disorder": "Intertrigo"
+  },
+  {
+    "namasteCode": "L-1",
+    "namasteTerm": "Waja‘ al-Ẓahr",
+    "regionalLanguageTerm": "وجع الظهر",
+    "shortDefinition": "Backache",
+    "longDefinition": "Pain of the back can be superficial or deep. It can be due to cold impaired temperament...",
+    "ayushSystem": "Unani",
+    "tm2Code": "SP42",
+    "tm2Disorder": "Lumbar spondylosis"
+  },
+  {
+    "namasteCode": "L-8",
+    "namasteTerm": "‘Irq al-Nasā",
+    "regionalLanguageTerm": "عرق النسا",
+    "shortDefinition": "Sciatica",
+    "longDefinition": "A type of pain which originates from the hip joints and runs along with the sciatic nerve...",
+    "ayushSystem": "Unani",
+    "tm2Code": "SP41",
+    "tm2Disorder": "Sciatica"
+  },
+  {
+    "namasteCode": "L-9",
+    "namasteTerm": "Taḥajjur wa Ṣalāba al-Mafāṣil",
+    "regionalLanguageTerm": "تحجر وصلابة المفاصل",
+    "shortDefinition": "Ankylosing arthritis",
+    "longDefinition": "The ossification of joints and reduced joint spaces leading to locking of the joints.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SP12",
+    "tm2Disorder": "Osteoarthritis"
+  },
+  {
+    "namasteCode": "M-8",
+    "namasteTerm": "‘Irq Madīnī",
+    "regionalLanguageTerm": "عرق مديني",
+    "shortDefinition": "Drancunculosis",
+    "longDefinition": "A type of parasitic disease. It starts with an eruption on the skin of the leg...",
+    "ayushSystem": "Unani",
+    "tm2Code": "SN47",
+    "tm2Disorder": "Dracunculosis"
+  },
+  {
+    "namasteCode": "M-15.1",
+    "namasteTerm": "Waram Rīḥī",
+    "regionalLanguageTerm": "ورم ريحي",
+    "shortDefinition": "inflammation with gaseous distension",
+    "longDefinition": "In this type of swelling, gas gets accumulated in the spaces of organs...",
+    "ayushSystem": "Unani",
+    "tm2Code": "SP94",
+    "tm2Disorder": "Inflammation"
+  },
+  {
+    "namasteCode": "M-15.2",
+    "namasteTerm": "Waram Ḥārr",
+    "regionalLanguageTerm": "ورم حار",
+    "shortDefinition": "acute inflammation",
+    "longDefinition": "Acute swelling of the organs characterised by severe clinical features.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SP94",
+    "tm2Disorder": "Inflammation"
+  },
+  {
+    "namasteCode": "M-16",
+    "namasteTerm": "Sal‘āt",
+    "regionalLanguageTerm": "سلعات",
+    "shortDefinition": "Tumours",
+    "longDefinition": "A type of movable swelling with varying size from gram seed to watermelon.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SP71",
+    "tm2Disorder": "Benign tumour"
+  },
+  {
+    "namasteCode": "M-18",
+    "namasteTerm": "Namla/ Sā‘iya",
+    "regionalLanguageTerm": "نم لہ/ سا عیہ",
+    "shortDefinition": "Herpes",
+    "longDefinition": "Its literal meaning is ‘ant’. These are one or more small red papules...",
+    "ayushSystem": "Unani",
+    "tm2Code": "SN4T",
+    "tm2Disorder": "Herpes"
+  },
+  {
+    "namasteCode": "M-22",
+    "namasteTerm": "Nā r Fārsī",
+    "regionalLanguageTerm": "نار فارسي",
+    "shortDefinition": "Eczema",
+    "longDefinition": "Eruptions of the skin which are encrusted immediately after appearance...",
+    "ayushSystem": "Unani",
+    "tm2Code": "SN43",
+    "tm2Disorder": "Eczema"
+  },
+  {
+    "namasteCode": "M-27",
+    "namasteTerm": "Dā’ al-Fīl",
+    "regionalLanguageTerm": "داء الفيل",
+    "shortDefinition": "Elephantiasis/Filariasis",
+    "longDefinition": "Collection of fluid in the lymphatic channels due to their obstruction...",
+    "ayushSystem": "Unani",
+    "tm2Code": "SM01",
+    "tm2Disorder": "Elephantiasis"
+  },
+  {
+    "namasteCode": "M-37",
+    "namasteTerm": "Siman Mufriṭ",
+    "regionalLanguageTerm": "سمن مفرط",
+    "shortDefinition": "Obesity",
+    "longDefinition": "Obesity is caused by leading a sedentary life and intake of fatty diets.",
+    "ayushSystem": "Unani",
+    "tm2Code": "SP64",
+    "tm2Disorder": "Obesity"
+  },
+  {
+    "namasteCode": "M-39",
+    "namasteTerm": "Fatq",
+    "regionalLanguageTerm": "فتق",
+    "shortDefinition": "Hernia",
+    "longDefinition": "Protrusion of an organ or a part of the organ through an abnormal opening...",
+    "ayushSystem": "Unani",
+    "tm2Code": "SM3G",
+    "tm2Disorder": "Hernia"
+  },
+  {
+    "namasteCode": "Z83",
+    "namasteTerm": "Cilēṭṭuma Karṇa Cūlai",
+    "regionalLanguageTerm": "சிலேட்டும கர்ண சூலை",
+    "shortDefinition": "Pain in the ears due to aggrevation of aiyam",
+    "longDefinition": "It is characterized by pain present in both ears...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SK87",
+    "tm2Disorder": "Otalgia"
+  },
+  {
+    "namasteCode": "Z65",
+    "namasteTerm": "Payittiya Vāta Curōṇitam",
+    "regionalLanguageTerm": "பயித்திய வாத  சுரோணிதம்",
+    "shortDefinition": "Rheumatoid arthritis, Rheumatic fever (Later stage)",
+    "longDefinition": "It is characterized by swelling of major and minor joints...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SP10",
+    "tm2Disorder": "Polyarthritis"
+  },
+  {
+    "namasteCode": "XDC1.1",
+    "namasteTerm": "Aiya Nīrccurukku",
+    "regionalLanguageTerm": "ஐயம் நீர்சுருக்கு",
+    "shortDefinition": "Urinary tract Infection caused by increasedAiyam",
+    "longDefinition": "It is characterised by cystitis,pyuria with feces-like bad odour...",
+    "ayushSystem": "Siddha",
+    "tm2Code": "SM85",
+    "tm2Disorder": "Cystitis"
+  }
+]

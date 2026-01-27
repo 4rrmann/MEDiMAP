@@ -1,0 +1,1689 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "dynamic-namaste-tm2",
+  "status": "active",
+  "name": "NAMASTE_to_TM2",
+  "description": "Mapping NAMASTE terms to WHO TM2 terms",
+  "group": [
+    {
+      "source": "https://namaste.ayush.gov.in/codesystem",
+      "target": "http://id.who.int/icd/release/11/tm2",
+      "element": [
+        {
+          "code": "BVA1.1",
+          "display": "Vaḷicilaippuṇ",
+          "target": [
+            {
+              "code": "SK50",
+              "display": "Neurotrophic ulcer",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Neurotrophic Ulcer due to Increased vali",
+                  "longDefinition": "It is characterized by a type of ulcer caused by abcess with reddishblack coloured pus discharge. It is explained by increased vali. Amoung the seven udal thathukkal Cāram, Cennīr gets affected.",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "RIA1.1",
+          "display": "Maṇṭaikkuttiyal",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Cephalalgia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Pricking pain around the head due to increasing Vali",
+                  "longDefinition": "It is characterized by pricking pain around the head with severe pain in the occipital region. It is explained by increased vali. Among the seven Uṭaṟtātukkaḷ Cāram, Cennīr and Ūṉ gets affected.",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z2",
+          "display": "Vātakarṣaṇam",
+          "target": [
+            {
+              "code": "SK54",
+              "display": "Numbness",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Peripheral Neuritis",
+                  "longDefinition": "It is characterized by numbness and smoothness of the foot, pain all over the body, restricted movements of the spine. It is explained by increased vali. Among the seven Uṭaṟtātukkaḷ Cāram and Cennīr gets affected.",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z7",
+          "display": "Ūrustampavātam",
+          "target": [
+            {
+              "code": "SK55",
+              "display": "Weakness of thighs due to vata",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Gynoid type of obesity",
+                  "longDefinition": "It is characterized by vali accumulated in the affected areas, heaviness present in the upper limbs, pricking pain, heaviness of head. It is explained by increased vali along with aaiyam. Among the seven Uṭaṟtātukkaḷ Cāram, Cennīr and Ūṉ gets affected.",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z13",
+          "display": "Pāṇikkampa Vātam",
+          "target": [
+            {
+              "code": "SK52",
+              "display": "Parkinsonism",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Parkinsonism",
+                  "longDefinition": "It is characterized by shivering, insomnia, body is full of flatness, glued hands, dryness of skin and mouth. It is explained by increased vali along with Aẕal. Among the seven Uṭaṟtātukkaḷ Cāram, Cennīr, Ūṉ, Koẕuppu and Eṉpu gets affected.",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z17",
+          "display": "Vāta Upakatam",
+          "target": [
+            {
+              "code": "SK51",
+              "display": "Peripheral neuritis due to derangement of Vaḷi",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Peripheral Neuritis due to vit B1deficiency",
+                  "longDefinition": "It is characterized by excessive sense of smell, increased appetite, physically active, giddiness. It is explained by increased vali and Aẕal. Among the seven Uṭaṟtātukkaḷ Cāram and Cennīr gets affected.",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z21",
+          "display": "Pakka Vātam",
+          "target": [
+            {
+              "code": "SK22",
+              "display": "Incomplete hemiplegia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Incomplete hemiplegia",
+                  "longDefinition": "It is characterized by inability to move, increased pain in the body, seizure, excessive sweat, dryness. It is explained by increased vali. Among the seven Uṭaṟtātukkaḷ Cāram, Cennīr and Ūṉ gets affected.",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z22",
+          "display": "Pakṣavātam",
+          "target": [
+            {
+              "code": "SK22",
+              "display": "Hemiplegia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Complete Hemiplegia",
+                  "longDefinition": "It is characterized by inability of movements, unable to swallow, excessive salivation, unable to inflate, unable to do anything properly. It is explained by increased vali. Among the seven Uṭaṟtātukkaḷ Cāram, Cennīr and Ūṉ gets affected.",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z29",
+          "display": "Uraka Vātam",
+          "target": [
+            {
+              "code": "SK20",
+              "display": "Facial palsy",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Bells palsy",
+                  "longDefinition": "It is characterized by the symptoms like loss of wrinkling, unable to frown, tremble present in the head, sometimes body become cool, fatigue, weakness, dullness. It is explained by increased aiyam along with vali. Among the seven Uṭaṟtātukkaḷ Cāram, Ce",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z35",
+          "display": "Aṣṭa Tantira Vātam",
+          "target": [
+            {
+              "code": "SK51",
+              "display": "Tetanus",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Tetanus",
+                  "longDefinition": "It is characterized by uncomfortable feeling throughout the body, restricted movements, unable to open eyes, tendency of biting, excessive salivation, body looks like corpse. It is explained by increased vali. Among the seven Uṭaṟtātukkaḷ Cāram, Cennīr,",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z36",
+          "display": "Vacaṉā Vātam",
+          "target": [
+            {
+              "code": "SK31",
+              "display": "Grandmal epilepsy",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Grandmal epilepsy",
+                  "longDefinition": "It is characterized by pain present all over the body, feeling of sadness, having the qualities like respecting elders, stands on the side of bad qualities, sunken eyes, patient falls due to unconscious, but physically fit. It is explained by increased va",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z45",
+          "display": "Cirakkampa Vātam",
+          "target": [
+            {
+              "code": "SK51",
+              "display": "Cervicobrachial pain",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Cerebral palsy",
+                  "longDefinition": "It is characterized by pain in the neck radiating up to upper limbs, restricted movements, loss of hearing, loss of memories, sleep, and heaviness of head. It is explained by increased vali. Among the seven Uṭaṟtātukkaḷ Cāram, Cennīr, Ūṉ and Koẕuppu gets",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z50",
+          "display": "Patita Vātam",
+          "target": [
+            {
+              "code": "SK53",
+              "display": "Stammering",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Vatham aggrevation with stammering and impotence",
+                  "longDefinition": "It is characterized by pain present in the node due to excersice speech, pain present in the fore head, unasle to speak properly, loss of appetite. It is explained by increased vali and Aẕal. Among the seven Uṭaṟtātukkaḷ all seven gets affected.",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z80",
+          "display": "Oru Talaiyiṉ Vartam",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Cluster headache",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Cluster headache",
+                  "longDefinition": "It is characterized by headache, like splitting the head, blinking eyes due to burning sensation, shivering, loss of appetite, loss of hair. It is explained by increased vali. Among the seven Uṭaṟtātukkaḷ Cāram, Cennīr and Ūṉ, gets affected.",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z$20",
+          "display": "Eripittam",
+          "target": [
+            {
+              "code": "SK51",
+              "display": "Peripheral neuralgia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Peripheral Neuralgia",
+                  "longDefinition": "It is characterized by burning sensation present in the lower thigh, sole of both legs, eyes and palms, dryness in both nostrils and ears, numbness in the back and in both legs and hands, burning sensation is unbearable and so the person will very much",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z$30",
+          "display": "Naṭukku Pittam",
+          "target": [
+            {
+              "code": "SK52",
+              "display": "Aggrevation of Aẕal causing tremors",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Aggrevation of pittham causing tremors",
+                  "longDefinition": "It is characterized by bitter tasting vomiting, cough, sleeplessness, excessive salivation and dribbling of saliva over the chest. The head, forehead, back of the head and spine will feel hot with shivering. It is explained by increased Aẕal and vali. A",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z$36",
+          "display": "Timir Pittam",
+          "target": [
+            {
+              "code": "SK51",
+              "display": "Aggrevation of Aẕal causing neuralgia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Aggrevation of pittham causing neuralgia",
+                  "longDefinition": "It is characterized by syncope, pricking pain in the stomach, vomiting occurs every morning, even in sleep, consciousness will be present without any change, body will be tired, the patient will always be adamant in his attitude. There will be p",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z#9",
+          "display": "Cuka Caṉṉi",
+          "target": [
+            {
+              "code": "SK51",
+              "display": "Three humours affected leading to seizure",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Three humours affected leading to Seizure.",
+                  "longDefinition": "It is characterised by dryness of the tongue with blackish discoloration, fever with burning sensation, generalised seizures, loss of vigour, poor memory, the muscles have spasms that jerks seen in jaw, cheeks, ear, eyebrows, nose and vertex. It is expl",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-2",
+          "display": "Shaqīqa",
+          "target": [
+            {
+              "code": "SK01",
+              "display": "Migraine",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Migraine",
+                  "longDefinition": "A type of severe headache which involves one half of head whether it is right or left. It is an episodic type of pain accompanied with nausea and vomiting.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-2.1",
+          "display": "Shaqīqa Ḥārra",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Acute migraine",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Acute migraine",
+                  "longDefinition": "A type of migraine which is caused by predominance of <em>Ṣafrā’</em> (yellow bile) and <em>Dam</em> (blood/sanguine) in the body.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-2.2",
+          "display": "Shaqīqa Bārida",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Chronic migraine",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Chronic migraine",
+                  "longDefinition": "A type of migraine which is caused by predominance of <em>Balgham</em> (phlegm) and <em>Sawdā’</em> (black bile) in the body.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-25",
+          "display": "Sadr-o-Duwār",
+          "target": [
+            {
+              "code": "SK10",
+              "display": "Vertigo and giddiness",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Vertigo and giddiness",
+                  "longDefinition": "Sadr is a disease of brain in which the person experiences darkness on standing. This condition usually accompanies with heaviness of head, tinnitus and confusion. <em>Duwār</em> is similar to <em>Sadr</em> but in this condition the patients feel giddiness also.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-25.1",
+          "display": "Sadr-o-Duwār Dimāghī Damawī",
+          "target": [
+            {
+              "code": "SK10",
+              "display": "Vertigo and giddiness due to Dam",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Sanguineous vertigo and giddiness",
+                  "longDefinition": "A type of vertigo and giddiness caused by the accumulation of <em>Dam</em> (blood /sanguine) in the brain itself. It is characterized by frequent episodes of giddiness, flushing of face, redness of eyes and elevated temperature of head. Initially, it is accompanied with lacrimation.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-25.2",
+          "display": "Sadr-o-Duwār Dimāghī Balghamī",
+          "target": [
+            {
+              "code": "SK10",
+              "display": "Vertigo and giddiness due to Balgham",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Phlegmatic vertigo and giddiness",
+                  "longDefinition": "Mostly it occurs due to the accumulation of <em>Balgham</em> (phlegm) in the brain. It is characterized by vertigo and giddiness along with heaviness of head, increased salivation, decreased thirst, altered sensorium, increased sleep and pulsus mollis.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-25.3",
+          "display": "Sadr-o-Duwār Dimāghī Ṣafrāwī",
+          "target": [
+            {
+              "code": "SK10",
+              "display": "Vertigo and giddiness due to Ṣafrā’",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Bilious vertigo and giddiness",
+                  "longDefinition": "A type of vertigo and giddiness caused by the accumulation of <em>Ṣafrā’</em> (yellow bile) in the brain. It is characterized by vertigo and giddiness along with pale face, bitter taste, pulsus velox and thirst.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-25.4",
+          "display": "Sadr-o-Duwār Dimāghī Sawdāwī",
+          "target": [
+            {
+              "code": "SK10",
+              "display": "Vertigo and giddiness due to Sawdā’",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Melancholic vertigo and giddiness",
+                  "longDefinition": "A type of vertigo and giddiness caused by the accumulation of <em>Sawdā’</em> (black bile) in the brain. It is characterized by excessive thoughts and sleeplessness, pulsus debilis and pulses durus.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-25.5",
+          "display": "Sadr-o-Duwār Shirkī",
+          "target": [
+            {
+              "code": "SK10",
+              "display": "Secondary vertigo and giddiness",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Secondary vertigo and giddiness",
+                  "longDefinition": "The state of Sadr and <em>Duwār</em> which comes as a complication of some other systemic diseases.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-28",
+          "display": "Ṣar‘",
+          "target": [
+            {
+              "code": "SK31",
+              "display": "Epilepsy",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Epilepsy",
+                  "longDefinition": "Its literal meaning is to fall down. It is an episodic disease in which sensory and motor functions of the organs are stopped. The patient falls down and experiences convulsions and frothing from the mouth.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-28.1",
+          "display": "Ṣar‘ Dimāghī Sawdāwī",
+          "target": [
+            {
+              "code": "SK31",
+              "display": "Epilepsy due to derangement of Sawdā’",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Melancholic epilepsy",
+                  "longDefinition": "A type of <em>Ṣar‘</em> caused by the obstruction of ventricles of brain by the thick black bile which causes hindrance in the flow of motor faculties and psychic pneuma with in the related nerves.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-29",
+          "display": "Sakta",
+          "target": [
+            {
+              "code": "SK5Y",
+              "display": "Stroke",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Apoplexy",
+                  "longDefinition": "A condition that occurs when there is a complete obstruction of the ventricles of the brain and channels of oxygen. In this condition the motor and sensory functions of the body stop but the respiratory and circulatory functions remain active. Patient remains stationary.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-29.2",
+          "display": "Sakta Balghamiyya",
+          "target": [
+            {
+              "code": "SK5Y",
+              "display": "Stroke due to Balgham",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Phlegmatic apoplexy",
+                  "longDefinition": "A type of apoplexy that occurs due to <em>Sudda Balghamī</em> (phlegmatic obstruction) in the brain. In this condition patient develops palor, flaccid muscles and there is discharge from nose and mouth.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-29.3",
+          "display": "Sakta Sawdāwiyya",
+          "target": [
+            {
+              "code": "SK5Y",
+              "display": "Stroke due to Sawdā",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Melancholic apoplexy",
+                  "longDefinition": "A type of apoplexy that occurs due to accumulation of <em>Sawdā’</em> (black bile) in the brain.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-32",
+          "display": "Fālij",
+          "target": [
+            {
+              "code": "SK22",
+              "display": "Hemiplegia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Hemiplegia",
+                  "longDefinition": "Paralytic conditions where muscles of half body (longitudinally) on either side stop functioning except the head.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-33",
+          "display": "Tashannuj",
+          "target": [
+            {
+              "code": "SK30",
+              "display": "Seizure",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Cramp/Convulsion/Spasm",
+                  "longDefinition": "A condition in which muscles contract towards their origin. It is a state of muscular spasm.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-34",
+          "display": "Ḍu‘f al-Dimāgh",
+          "target": [
+            {
+              "code": "SK5Y",
+              "display": "Cerebrasthenia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Cerebrasthenia",
+                  "longDefinition": "It is the weakness of brain. In this condition the blood supply to whole brain or a part of brain is interrupted and that part or the whole brain does not get sufficient supply of blood leading to the disturbance in different faculties of brain. This condition can also be due to impaired temperament of brain, congenital abnormality of brain, increased <em>Istifrāgh</em> (evacuation) of the body by any method.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36",
+          "display": "Ṣudā‘",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Cephalalgia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Cephalagia/Headache",
+                  "longDefinition": "Pain felt in the head which is divided into many types according to cause.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.1",
+          "display": "Ṣudā‘ Ḥārr",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Headache due to excessive hotness",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Headache due to excessive heat",
+                  "longDefinition": "Headache on exposure to hot environment. This headache does not involve <em>Mādda</em> (organic matter) or any pathological change inside the body.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.2",
+          "display": "Ṣudā‘ Bārid",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Headache due to excessive coldness",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Headache due to excessive cold",
+                  "longDefinition": "Headache on exposure to cold environment without involvement of <em>Mādda</em> (organic matter).",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.3",
+          "display": "Ṣudā‘ Damawī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Headache due to derangement of Dam",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Congestive headache",
+                  "longDefinition": "Headache due to predominance of <em>Dam</em> (blood/sanguine).",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.4",
+          "display": "Ṣudā‘ Balghamī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Headache due to derangement of Balgham",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Phlegmatic headache",
+                  "longDefinition": "Headache due to predominance of <em>Balgham</em> (phlegm).",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.5",
+          "display": "Ṣudā‘ Ṣafrāwī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Headache due to derangement of Ṣafrā’",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Bilious headache",
+                  "longDefinition": "Headache due to predominance of <em>Ṣafrā’</em> (yellow bile).",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.6",
+          "display": "Ṣudā‘ Sawdāwī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Headache due to derangement of Sawdā’",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Melancholic headache",
+                  "longDefinition": "Headache due to predominance of <em>Sawdā’</em> (black bile).",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.7",
+          "display": "Ṣudā‘ Rīḥī Dākhilī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Headache due to internal Rīḥ",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "headache due to internal gases",
+                  "longDefinition": "Headache due to the accumulation of gases in the brain that are produced in the body.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.8",
+          "display": "Ṣudā‘ Rīḥī Khārijī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Headache due to external Rīḥ",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "headache due to external gases",
+                  "longDefinition": "Headache due to accumulation of gases in the brain from outside the body.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.9",
+          "display": "Ṣudā‘ Bukhārī Dākhilī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Headache due to internal Bukhārāt",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "headache due to internal vapours",
+                  "longDefinition": "Headache due to excessive production of gases inside the brain.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.10",
+          "display": "Ṣudā‘ Bukhārī Khārijī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Headache due to external Bukhārāt",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "headache due to external vapours",
+                  "longDefinition": "Headache due to excessive production of gases outside the brain.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.12",
+          "display": "Ṣudā‘ Waramī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Inflammatory headache",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Inflammatory headache",
+                  "longDefinition": "Headache due to <em>Waram</em> (inflammation) of brain.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.13",
+          "display": "Ṣudā‘ Ḍarabānī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Throbbing headache",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Throbbing headache",
+                  "longDefinition": "Headache due to increased pulsation of arteries in the brain.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.14",
+          "display": "Ṣudā‘ Ḍu‘f Dimāghī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Headache due to weakness of brain",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Headache due to weakness of brain",
+                  "longDefinition": "Headache due to weakness of brain.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.19",
+          "display": "Ṣudā‘ Shammī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Headache due to smell",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "headache due to smell",
+                  "longDefinition": "Headache due to inhalation of pungent odour or strong smells.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.25",
+          "display": "Ṣudā‘ Shirkī Mi‘dī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Referred headache due to the involvement of the stomach",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Referred headache due to the involvement of the stomach",
+                  "longDefinition": "Headache due to stomach diseases.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.26",
+          "display": "Ṣudā‘ Shirkī Kabidī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Referred headache due to the involvement of the liver",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Referred headache due to the involvement of the liver",
+                  "longDefinition": "Headache due to liver diseases.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.27",
+          "display": "Ṣudā‘ Marāqī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Referred headache due to the involvement of the peritoneum",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Referred Headache due to the involvement of the peritoneum",
+                  "longDefinition": "Headache due to involvement of peritoneum.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-36.28",
+          "display": "Ṣudā‘ Nazlī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Catarrhal headache",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Catarrhal headache",
+                  "longDefinition": "Headache due to catarrh.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-37",
+          "display": "Tamaddud",
+          "target": [
+            {
+              "code": "SK5Y",
+              "display": "Muscle distension",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "straightening of organ",
+                  "longDefinition": "A type of tension occurring at both ends of the muscles causing maximum stretching of the muscles.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-39",
+          "display": "Laqwa",
+          "target": [
+            {
+              "code": "SK20",
+              "display": "Facial palsy",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Facial palsy",
+                  "longDefinition": "A disease of the facial muscles in which face is deviated to either side. In this condition patient cannot close his eyes on the affected side and lips, completely. Saliva continues to dribble from the angles of the mouth. When the patient blows, air comes out from one side of the mouth. When this disease is bilateral there is no deviation of face but lips and eyes do not close completely.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-39.1",
+          "display": "Laqwa Istirkhā’ī",
+          "target": [
+            {
+              "code": "SK20",
+              "display": "Deviation of one side of face due to flaccidity of muscles",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "deviation of one side of face due to flaccidity of muscles",
+                  "longDefinition": "Deviation of face due to flaccidity of the facial muscles.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-39.2",
+          "display": "Laqwa Tashannujī",
+          "target": [
+            {
+              "code": "SK20",
+              "display": "Facial palsy disorder",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "deviation of one side of face due to spasm of muscles",
+                  "longDefinition": "Deviation of face due to spasm of the facial muscles.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-40",
+          "display": "Ra‘sha",
+          "target": [
+            {
+              "code": "SK52",
+              "display": "Tremor",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Tremor",
+                  "longDefinition": "Shivering of the organs of the body due to the weakness or defect in motor system. It is a mixture of voluntary and involuntary movements of the body.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-40.1",
+          "display": "Ra‘sha Bārid",
+          "target": [
+            {
+              "code": "SK52",
+              "display": "Tremor due to cold impaired temperament",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "tremor due to cold morbid temperament",
+                  "longDefinition": "A type of <em>Ra‘sha</em> caused by simple cold morbid temperament of the organ.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-42",
+          "display": "Khadar",
+          "target": [
+            {
+              "code": "SK54",
+              "display": "Numbness",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Numbness",
+                  "longDefinition": "The complete/partial loss of sensation of any organ of the body. According to causes it can be of four types i. e. <em>Balghamī</em> (phlegmatic), <em>Damawī</em> (sanguineous), <em>Sawdāwī</em> (melancholic) and <em>Ṣafrāwī</em> (bilious).",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "C-110",
+          "display": "Wābila/Waja‘ al-‘Unuq ‘Aṣabī",
+          "target": [
+            {
+              "code": "SK51",
+              "display": "Cervicobrachial pain",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Cervicobrachial neuralgia",
+                  "longDefinition": "A severe type of pain of throat which is produced by spasm of nerves and vessels of the neck. If it is due to the spasm of arteries then it is fatal. If the cause is the spasm of nerves then it is not fatal.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-1.1",
+          "display": "Bayḍa-o-Khūdha Damawī",
+          "target": [
+            {
+              "code": "SK00",
+              "display": "Circumferential headache",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Sanguineous helmet headache",
+                  "longDefinition": "A condition of severe chronic continuous headache caused by the predominance of sanguine humour. This condition is characterised by redness of face and other features of predominance of sanguine along with specific clinical features of helmet headache",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A-32.7",
+          "display": "Fālij Asfal/Fālij Aṭrāfī",
+          "target": [
+            {
+              "code": "SK21",
+              "display": "Paraplegia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "paralysis of extrimities/lower body",
+                  "longDefinition": "A condition of paralysis of lower part of body due to constitution derangement in spinal cord resulting from any injury or its inflammation. It can also be due to congestion of Dam. It is characterised by gradual weakness of muscles of lower limbs, backache, staggering gait, occasional fall followed by the stoppage of motor functions of lower limb.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "C-131",
+          "display": "Luknat",
+          "target": [
+            {
+              "code": "SK53",
+              "display": "Stammering",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Stammering disorder",
+                  "longDefinition": "A speech disorder involving frequent problems with the normal fluency and flow of speech.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BGB1.1",
+          "display": "Kaṭṭi",
+          "target": [
+            {
+              "code": "SP90",
+              "display": "Abscess",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Abcess",
+                  "longDefinition": "It is characterized by a swelling with pus collection, redness, pain, warmth, and swelling. It is explained by increased Aṣal...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BGB1.3",
+          "display": "Kallīral Kaṭṭi",
+          "target": [
+            {
+              "code": "SM40",
+              "display": "Liver abscess",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "abcess in the Liver",
+                  "longDefinition": "It is characterized by a liver abcess with breathlessness, pain in the thoracic region...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BGB1.8",
+          "display": "Toḍai Iṭukku Kaṭṭi",
+          "target": [
+            {
+              "code": "SM56",
+              "display": "Anal abscess",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "abcess in the Inguinal Region",
+                  "longDefinition": "It is characterized by a abcess in the inguinal region with pain, fever...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BGB1.10",
+          "display": "Eruvāykaṭṭi",
+          "target": [
+            {
+              "code": "SM56",
+              "display": "Anal abscess",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "abcess in and around the anus",
+                  "longDefinition": "It is characterized by a abcess in and around the anus with painful defication...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BHB1.1",
+          "display": "Akkuḷ Koppuḷam",
+          "target": [
+            {
+              "code": "SN4M",
+              "display": "Boil",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Boils in the axilla",
+                  "longDefinition": "It is characterized by small multiple boils present in and around the axillary region...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BIA1.1",
+          "display": "Kapāla Karuṅkuṭṭam",
+          "target": [
+            {
+              "code": "SN4G",
+              "display": "Melasma",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Hyperpigmentation of skin in the scalp",
+                  "longDefinition": "It is characterized by hyperpigmented skin lesions in the scalp with dryness, scaliness...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BIA1.2",
+          "display": "Kapāla Viṭak Kuṭṭam",
+          "target": [
+            {
+              "code": "SN4E",
+              "display": "Lentigo",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Thickening of scalp skin due to toxins",
+                  "longDefinition": "It is characterised by coin shaped hyperkeratinised lesions with hyperpigmented dots...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BJA1.1",
+          "display": "Maccam",
+          "target": [
+            {
+              "code": "SN4H",
+              "display": "Mole",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Mole",
+                  "longDefinition": "It is characterised by circumscribed hyperplasia, pale or brown coloured naevus...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BLA1.1",
+          "display": "Mayir Utiral",
+          "target": [
+            {
+              "code": "SN71",
+              "display": "Baldness",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Hair loss",
+                  "longDefinition": "It is characterised by loss of hair in scalp or body due to malnutrition...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BMB1.1",
+          "display": "Mukapparu",
+          "target": [
+            {
+              "code": "SN4V",
+              "display": "Acne",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Acne",
+                  "longDefinition": "It is characterised by chronic inflammation of pilo sebaceous follicles...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "J-20",
+          "display": "Ṣala‘",
+          "target": [
+            {
+              "code": "SN71",
+              "display": "Baldness",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Baldness",
+                  "longDefinition": "Falling of hair from the anterior portion of the scalp.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "J-52",
+          "display": "Sharā",
+          "target": [
+            {
+              "code": "SN4K",
+              "display": "Urticaria",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Urticaria",
+                  "longDefinition": "Abrupt eruptions of the skin which are reddish in colour with raised margins...",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "J-63",
+          "display": "Mazaḥ",
+          "target": [
+            {
+              "code": "SN48",
+              "display": "Intertrigo",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Intertrigo",
+                  "longDefinition": "An infection caused by the continous dampening in between the fingers.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "L-1",
+          "display": "Waja‘ al-Ẓahr",
+          "target": [
+            {
+              "code": "SP42",
+              "display": "Lumbar spondylosis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Backache",
+                  "longDefinition": "Pain of the back can be superficial or deep. It can be due to cold impaired temperament...",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "L-8",
+          "display": "‘Irq al-Nasā",
+          "target": [
+            {
+              "code": "SP41",
+              "display": "Sciatica",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Sciatica",
+                  "longDefinition": "A type of pain which originates from the hip joints and runs along with the sciatic nerve...",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "L-9",
+          "display": "Taḥajjur wa Ṣalāba al-Mafāṣil",
+          "target": [
+            {
+              "code": "SP12",
+              "display": "Osteoarthritis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Ankylosing arthritis",
+                  "longDefinition": "The ossification of joints and reduced joint spaces leading to locking of the joints.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-8",
+          "display": "‘Irq Madīnī",
+          "target": [
+            {
+              "code": "SN47",
+              "display": "Dracunculosis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Drancunculosis",
+                  "longDefinition": "A type of parasitic disease. It starts with an eruption on the skin of the leg...",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-15.1",
+          "display": "Waram Rīḥī",
+          "target": [
+            {
+              "code": "SP94",
+              "display": "Inflammation",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "inflammation with gaseous distension",
+                  "longDefinition": "In this type of swelling, gas gets accumulated in the spaces of organs...",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-15.2",
+          "display": "Waram Ḥārr",
+          "target": [
+            {
+              "code": "SP94",
+              "display": "Inflammation",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "acute inflammation",
+                  "longDefinition": "Acute swelling of the organs characterised by severe clinical features.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-16",
+          "display": "Sal‘āt",
+          "target": [
+            {
+              "code": "SP71",
+              "display": "Benign tumour",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Tumours",
+                  "longDefinition": "A type of movable swelling with varying size from gram seed to watermelon.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-18",
+          "display": "Namla/ Sā‘iya",
+          "target": [
+            {
+              "code": "SN4T",
+              "display": "Herpes",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Herpes",
+                  "longDefinition": "Its literal meaning is ‘ant’. These are one or more small red papules...",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-22",
+          "display": "Nā r Fārsī",
+          "target": [
+            {
+              "code": "SN43",
+              "display": "Eczema",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Eczema",
+                  "longDefinition": "Eruptions of the skin which are encrusted immediately after appearance...",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-27",
+          "display": "Dā’ al-Fīl",
+          "target": [
+            {
+              "code": "SM01",
+              "display": "Elephantiasis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Elephantiasis/Filariasis",
+                  "longDefinition": "Collection of fluid in the lymphatic channels due to their obstruction...",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-37",
+          "display": "Siman Mufriṭ",
+          "target": [
+            {
+              "code": "SP64",
+              "display": "Obesity",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Obesity",
+                  "longDefinition": "Obesity is caused by leading a sedentary life and intake of fatty diets.",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M-39",
+          "display": "Fatq",
+          "target": [
+            {
+              "code": "SM3G",
+              "display": "Hernia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Hernia",
+                  "longDefinition": "Protrusion of an organ or a part of the organ through an abnormal opening...",
+                  "ayushSystem": "Unani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z83",
+          "display": "Cilēṭṭuma Karṇa Cūlai",
+          "target": [
+            {
+              "code": "SK87",
+              "display": "Otalgia",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Pain in the ears due to aggrevation of aiyam",
+                  "longDefinition": "It is characterized by pain present in both ears...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "Z65",
+          "display": "Payittiya Vāta Curōṇitam",
+          "target": [
+            {
+              "code": "SP10",
+              "display": "Polyarthritis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Rheumatoid arthritis, Rheumatic fever (Later stage)",
+                  "longDefinition": "It is characterized by swelling of major and minor joints...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "XDC1.1",
+          "display": "Aiya Nīrccurukku",
+          "target": [
+            {
+              "code": "SM85",
+              "display": "Cystitis",
+              "equivalence": "equivalent",
+              "extension": [
+                {
+                  "shortDefinition": "Urinary tract Infection caused by increasedAiyam",
+                  "longDefinition": "It is characterised by cystitis,pyuria with feces-like bad odour...",
+                  "ayushSystem": "Siddha"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

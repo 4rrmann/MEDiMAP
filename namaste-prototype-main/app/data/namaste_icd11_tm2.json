@@ -1,0 +1,252 @@
+[
+  {
+    "NamasteCode": "BGB1.1",
+    "NamasteTerm": "Kaṭṭi",
+    "RegionalLanguageTerm": "கட்டி",
+    "ShortDefinition": "Abcess",
+    "LongDefinition": "It is characterized by a swelling with pus collection, redness, pain, warmth, and swelling. It is explained by increased Aḻal. Among the seven Uḍaḷtaṭukkal Cāram and Cennīr gets affected initialy and then Ūṇ, Koḻuppu and sometimes Eṇpu gets affected.",
+    "System": "Siddha",
+    "ICD11Code": "ICD11-XXXX",
+    "TM2Code": "TM2-XXXX"
+  },
+  {
+    "NamasteCode": "BHB1.1",
+    "NamasteTerm": "Akkuḷ Koppuḷam",
+    "RegionalLanguageTerm": "அக்குள் கொப்புல்மம்",
+    "ShortDefinition": "Boils in the axilla",
+    "LongDefinition": "It is characterized by small multiple boils present in and around the axillary region. It is explained by increased Aḻal. Among the seven Uḍaḷtaṭukkal Cāram, Cennīr and Ūṇ gets affected.",
+    "System": "Siddha",
+    "ICD11Code": "1B75",
+    "TM2Code": "SN4M"
+  },
+  {
+    "NamasteCode": "BIA1.1",
+    "NamasteTerm": "Kapāla Karuḷkuḍḍam",
+    "RegionalLanguageTerm": "கப்பால கருள் குட்டம்",
+    "ShortDefinition": "Hyperpigmentation of skin in the scalp",
+    "LongDefinition": "It is characterized by hyperpigmented skin lesions in the scalp with dryness, scaliness and severe itching. It is explained by increased vali. Among the seven Uḍaḷtaṭukkal Cāram and senner gets affected.",
+    "System": "Siddha",
+    "ICD11Code": "ED60",
+    "TM2Code": "SN4G"
+  },
+  {
+    "NamasteCode": "BIA1.2",
+    "NamasteTerm": "Kapāla Viḍak Kuḍḍam",
+    "RegionalLanguageTerm": "கப்பால விடக் குட்டம்",
+    "ShortDefinition": "Thickening of scalp skin due to toxins",
+    "LongDefinition": "It is characterised by coin shaped hyperkeratinised lesions with hyperpigmented dots, itching of scalp, hair loss and emaciation due to toxins. It is explained by increased vali and Aḻal. Among the Uḍaḷtaṭukkal Cāram, Cennīr, Ūṇ and Koḻuppu gets affected.",
+    "System": "Siddha",
+    "ICD11Code": "2F20",
+    "TM2Code": "SN4E"
+  },
+  {
+    "NamasteCode": "BJA1.1",
+    "NamasteTerm": "Maccam",
+    "RegionalLanguageTerm": "மச்சம்",
+    "ShortDefinition": "Mole",
+    "LongDefinition": "It is characterised by circumscribed hyperplasia, pale or brown coloured naevus. It does not cause any problem and useful for the personal identifications. Treatment is not indicated if they are not showing signs of malignant transformation.",
+    "System": "Siddha",
+    "ICD11Code": "2F20",
+    "TM2Code": "SN4H"
+  },
+  {
+    "NamasteCode": "BLA1.1",
+    "NamasteTerm": "Mayir Utiral",
+    "RegionalLanguageTerm": "மயிர் உதிரல்",
+    "ShortDefinition": "Hair loss",
+    "LongDefinition": "It is characterised by loss of hair in scalp or body due to malnutrition, stress, certain medications. It is explained by aggravation of Aḻal. Among the seven Uḍaḷtaṭukkal Cāram, Cennīr, Ūṇ, Koḻuppu, Eṇpu, Mūḷai and sukkilam gets affected.",
+    "System": "Siddha",
+    "ICD11Code": "ED70",
+    "TM2Code": "SN71"
+  },
+  {
+    "NamasteCode": "BMB1.1",
+    "NamasteTerm": "Mukapparu",
+    "RegionalLanguageTerm": "முகப்பரு",
+    "ShortDefinition": "Acne",
+    "LongDefinition": "It is characterised by chronic inflammation of pilo sebaceous follicles, comedones, papules, pustules, cysts, nodules and often scars. It occurs primarily in the oily areas of skin. It is explained by aggravation of Aḻal and associated with aiyam.",
+    "System": "Siddha",
+    "ICD11Code": "ED80",
+    "TM2Code": "SN4V"
+  },
+  {
+    "NamasteCode": "J-20",
+    "NamasteTerm": "Ṣala‘",
+    "RegionalLanguageTerm": "صلع",
+    "ShortDefinition": "Baldness",
+    "LongDefinition": "Falling of hair from the anterior portion of the scalp.",
+    "System": "Unani",
+    "ICD11Code": "ED70",
+    "TM2Code": "SN71"
+  },
+  {
+    "NamasteCode": "J-52",
+    "NamasteTerm": "Sharā",
+    "RegionalLanguageTerm": "شر یٰ",
+    "ShortDefinition": "Urticaria",
+    "LongDefinition": "Abrupt eruptions of the skin which are reddish in colour with raised margins cause severe itching of the body. They are caused by hot and acute humours which are produced by the disturbance of metabolism, indigestion, constipation, frequent intake of infected and improper diets.",
+    "System": "Unani",
+    "ICD11Code": "EB05",
+    "TM2Code": "SN4K"
+  },
+  {
+    "NamasteCode": "J-63",
+    "NamasteTerm": "Mazaḥ",
+    "RegionalLanguageTerm": "مزح",
+    "ShortDefinition": "Intertrigo",
+    "LongDefinition": "An infection caused by the continous dampening in between the fingers.",
+    "System": "Unani",
+    "ICD11Code": "EK02",
+    "TM2Code": "SN48"
+  },
+  {
+    "NamasteCode": "L-1",
+    "NamasteTerm": "Waja‘ al-Ẓahr",
+    "RegionalLanguageTerm": "وجع الظهر",
+    "ShortDefinition": "Backache",
+    "LongDefinition": "Pain of the back can be superficial or deep. It can be due to cold impaired temperament, predominance of phlegm, physical exertion, incorrect sitting posture, increased sexual activity, weakness of kidneys, premenstrual pain, labour pain, congestion of portal vein and aorta.",
+    "System": "Unani",
+    "ICD11Code": "FA8Z",
+    "TM2Code": "SP42"
+  },
+  {
+    "NamasteCode": "L-8",
+    "NamasteTerm": "‘Irq al-Nasā",
+    "RegionalLanguageTerm": "عرق النساء",
+    "ShortDefinition": "Sciatica",
+    "LongDefinition": "A type of pain which originates from the hip joints and runs along with the sciatic nerve. Intensity of pain increases with the quantity of matter. This pain causes wasting of the muscles of legs due to disuse.",
+    "System": "Unani",
+    "ICD11Code": "ME84",
+    "TM2Code": "SP41"
+  },
+  {
+    "NamasteCode": "L-9",
+    "NamasteTerm": "Taḥajjur wa Ṣalāba al-Mafāṣil",
+    "RegionalLanguageTerm": "تحجر وصلابة المفاصل",
+    "ShortDefinition": "Ankylosing arthritis",
+    "LongDefinition": "The ossification of joints and reduced joint spaces leading to locking of the joints.",
+    "System": "Unani",
+    "ICD11Code": "FA0Z",
+    "TM2Code": "SP12"
+  },
+  {
+    "NamasteCode": "M-8",
+    "NamasteTerm": "‘Irq Madīnī",
+    "RegionalLanguageTerm": "عرق مدينى",
+    "ShortDefinition": "Drancunculosis",
+    "LongDefinition": "A type of parasitic disease. It starts with an eruption on the skin of the leg or hand or extremities or trunk more commonly on the calf muscles. After the ulceration of eruptions, a red thread like worm comes out from it.",
+    "System": "Unani",
+    "ICD11Code": "1F64",
+    "TM2Code": "SN47"
+  },
+  {
+    "NamasteCode": "M-15.1",
+    "NamasteTerm": "Waram Rīḥī",
+    "RegionalLanguageTerm": "ورم ريحى",
+    "ShortDefinition": "inflammation with gaseous distension",
+    "LongDefinition": "In this type of swelling, gas gets accumulated in the spaces of organs. This is lighter in weight and cannot be pressed with pressure.",
+    "System": "Unani",
+    "ICD11Code": "FA2Z",
+    "TM2Code": "SP94"
+  },
+  {
+    "NamasteCode": "M-15.2",
+    "NamasteTerm": "Waram Ḥārr",
+    "RegionalLanguageTerm": "ورم حار",
+    "ShortDefinition": "acute inflammation",
+    "LongDefinition": "Acute swelling of the organs characterised by severe clinical features.",
+    "System": "Unani",
+    "ICD11Code": "FA2Z",
+    "TM2Code": "SP94"
+  },
+  {
+    "NamasteCode": "M-16",
+    "NamasteTerm": "Sal‘āt",
+    "RegionalLanguageTerm": "سلعات",
+    "ShortDefinition": "Tumours",
+    "LongDefinition": "A type of movable swelling with varying size from gram seed to watermelon.",
+    "System": "Unani",
+    "ICD11Code": "2F3Z",
+    "TM2Code": "SP71"
+  },
+  {
+    "NamasteCode": "M-18",
+    "NamasteTerm": "Namla/ Sā‘iya",
+    "RegionalLanguageTerm": "نملہ/ ساعیہ",
+    "ShortDefinition": "Herpes",
+    "LongDefinition": "These are one or more small red papules which cause severe burning and itching. This burning is similar to ant bite. Known as Namla or Sā‘iya.",
+    "System": "Unani",
+    "ICD11Code": "1F00",
+    "TM2Code": "SN4T"
+  },
+  {
+    "NamasteCode": "M-22",
+    "NamasteTerm": "Nār Fārsī",
+    "RegionalLanguageTerm": "نار فارسى",
+    "ShortDefinition": "Eczema",
+    "LongDefinition": "Eruptions of the skin which are encrusted immediately after appearance. There is intense burning in these eruptions.",
+    "System": "Unani",
+    "ICD11Code": "EA8Z",
+    "TM2Code": "SN43"
+  },
+  {
+    "NamasteCode": "M-27",
+    "NamasteTerm": "Dā’ al-Fīl",
+    "RegionalLanguageTerm": "داء الفيل",
+    "ShortDefinition": "Elephantiasis/Filariasis",
+    "LongDefinition": "Collection of fluid in the lymphatic channels due to their obstruction as a result of which the legs become swollen. But unlike varicose veins these channels are not visible under the skin. The leg and foot of the patient resemble with that of an elephant.",
+    "System": "Unani",
+    "ICD11Code": "GA13",
+    "TM2Code": "SM01"
+  },
+  {
+    "NamasteCode": "M-37",
+    "NamasteTerm": "Siman Mufriṭ",
+    "RegionalLanguageTerm": "سمن مفرت",
+    "ShortDefinition": "Obesity",
+    "LongDefinition": "Obesity is caused by leading a sedentary life and intake of fatty diets.",
+    "System": "Unani",
+    "ICD11Code": "5B81",
+    "TM2Code": "SP64"
+  },
+  {
+    "NamasteCode": "M-39",
+    "NamasteTerm": "Fatq",
+    "RegionalLanguageTerm": "فتق",
+    "ShortDefinition": "Hernia",
+    "LongDefinition": "Protrusion of an organ or a part of the organ through an abnormal opening from the abdominal cavity to outside. It can be caused by increased abdominal pressure due to chronic cough, pregnancy, chronic constipation, etc.",
+    "System": "Unani",
+    "ICD11Code": "DD5Z",
+    "TM2Code": "SM3G"
+  },
+  {
+    "NamasteCode": "Z83",
+    "NamasteTerm": "Cilēḍḍuma Kaṟa Cūlai",
+    "RegionalLanguageTerm": "சிலேட்டும கரண் சூலை",
+    "ShortDefinition": "Pain in the ears due to aggrevation of aiyam",
+    "LongDefinition": "It is characterized by pain present in both ears, pain aggravates due to external objects, decreased sense of hearing, wax present in the ear. It is explained by increased vali. Among the seven Uḍaḷtaṭukkal Cāram, Cennīr, Ūṇ, gets affected.",
+    "System": "Siddha",
+    "ICD11Code": "AB70",
+    "TM2Code": "SK87"
+  },
+  {
+    "NamasteCode": "Z65",
+    "NamasteTerm": "Payittiya Vāta Curōḍitam",
+    "RegionalLanguageTerm": "பயித்திய வாத்த சூரோடிடம்",
+    "ShortDefinition": "Rheumatoid arthritis, Rheumatic fever (Later stage)",
+    "LongDefinition": "It is characterized by swelling of major and minor joints, increased pain, stress, loss of appetite, restricted movements, swollen joints later it affects the heart. It is explained by increased vali and Aḻal.",
+    "System": "Siddha",
+    "ICD11Code": "FA2Z",
+    "TM2Code": "SP10"
+  },
+  {
+    "NamasteCode": "XDC1.1",
+    "NamasteTerm": "Aiya Nīrccurukku",
+    "RegionalLanguageTerm": "ஐயம் நீர்ச்சுருக்கு",
+    "ShortDefinition": "Urinary tract Infection caused by increased Aiyam",
+    "LongDefinition": "It is characterised by cystitis, pyuria with feces-like bad odour & lower abdominal pain. Increased frequency of micturition with haematuria or pyuria, dribbling of urine occurs. It is explained by increased aiyam influences vali affects abanan.",
+    "System": "Siddha",
+    "ICD11Code": "GC00",
+    "TM2Code": "SM85"
+  }
+]
